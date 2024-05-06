@@ -1,0 +1,864 @@
+ID,CAS,SMILES,NAME,label,OVERALL
+0,97-59-6,C1(C(=O)NC(=O)N1)NC(=O)N,Allantoin,0,negative
+1,71-43-2,C1=CC=CC=C1,Benzene,1,cancer-liver
+2,120-80-9,C1=CC=C(C(=C1)O)O,Catechol,1,cancer-other
+3,143-50-0,C1(=O)C2(C3(C4(C1(C5(C2(C3(C(C45Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,Kepone,1,cancer-liver
+4,91-64-5,C1=CC=C2C(=C1)C=CC(=O)O2,Coumarin,1,cancer-liver
+5,50-00-0,C=O,Formaldehyde,1,cancer-other
+6,319-84-6,C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl,"alpha-1,2,3,4,5,6-Hexachlorocyclohexane",1,cancer-liver
+7,87-51-4,C1=CC=C2C(=C1)C(=CN2)CC(=O)O,Indole-3-acetic acid,0,negative
+8,91-20-3,C1=CC=C2C=CC=CC2=C1,Naphthalene,1,cancer-other
+9,56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],Parathion,1,cancer-other
+10,87-86-5,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,"2,3,4,5,6-Pentachlorophenol",1,cancer-liver
+11,105650-23-5,CN1C2=C(N=CC(=C2)C3=CC=CC=C3)N=C1N,PhIP.HCl,1,cancer-other
+12,56-49-5,CC1=C2CCC3=C2C(=CC4=C3C=CC5=CC=CC=C54)C=C1,3-Methylcholanthrene,1,cancer-other
+13,57-41-0,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,"5,5-Diphenylhydantoin",1,cancer-liver
+14,148-24-3,C1=CC2=C(C(=C1)O)N=CC=C2,8-Hydroxyquinoline,0,negative
+15,968-81-0,CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2,Acetohexamide,0,negative
+16,18559-94-9,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,Salbutamol,1,cancer-other
+17,60-80-0,CC1=CC(=O)N(N1C)C2=CC=CC=C2,Phenazone,1,cancer-other
+18,50-78-2,CC(=O)OC1=CC=CC=C1C(=O)O,Aspirin,0,negative
+19,1912-24-9,CCNC1=NC(=NC(=N1)Cl)NC(C)C,Atrazine,1,cancer-other
+20,446-86-6,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-],Azathioprine,1,cancer-other
+21,86-50-0,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1,Azinphosmethyl,1,cancer-other
+22,103-33-3,C1=CC=C(C=C1)N=NC2=CC=CC=C2,Azobenzene,1,cancer-liver
+23,50-32-8,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,Benzo(a)pyrene,1,cancer-other
+24,85-68-7,CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2,Butyl benzyl phthalate,1,cancer-other
+25,58-08-2,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine,0,negative
+26,56980-93-9,CCN(CC)C(=O)NC1=CC(=C(C=C1)OCC(CNC(C)(C)C)O)C(=O)C,Celiprolol,0,negative
+27,0305-03-03,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl,Chlorambucil,1,cancer-other
+28,101-21-3,CC(C)OC(=O)NC1=CC(=CC=C1)Cl,Isopropyl-N-(3-chlorophenyl) carbamate,0,negative
+29,2921-88-2,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,"O,O-Diethyl-o-(3,5,6-trichloro-2-pyridyl)phosphorothiolate",0,negative
+30,51481-61-9,CC1=C(N=CN1)CSCCNC(=NC)NC#N,Cimetidine,0,negative
+31,52214-84-3,CC(C)(C(=O)O)OC1=CC=C(C=C1)C2CC2(Cl)Cl,Ciprofibrate,1,cancer-liver
+32,637-07-0,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl,Clofibrate,1,cancer-liver
+33,50-18-0,C1CNP(=O)(OC1)N(CCCl)CCCl,Cyclophosphamide,1,cancer-other
+34,0117-10-2,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,Chrysazin,1,cancer-liver
+35,80-08-0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,Dapsone,1,cancer-other
+36,439-14-5,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,Diazepam,0,negative
+37,333-41-5,CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C,Diazinon,0,negative
+38,72-55-9,C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl,"p,p'-DDE",1,cancer-liver
+39,50-29-3,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,DDT,1,cancer-liver
+40,62-73-7,COP(=O)(OC)OC=C(Cl)Cl,Dichlorvos,1,cancer-other
+41,551-92-8,CC1=NC=C(N1C)[N+](=O)[O-],"1,2-Dimethyl-5-nitroimidazole",1,cancer-other
+42,97-77-8,CCN(CC)C(=S)SSC(=S)N(CC)CC,Tetraethylthiuram disulfide,0,negative
+43,115-29-7,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,Endosulfan,0,negative
+44,13838-16-9,C(C(OC(F)F)(F)F)(F)Cl,Enflurane,0,negative
+45,29975-16-4,C1C2=NN=CN2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4,Estazolam,0,negative
+46,91-53-2,CCOC1=CC2=C(C=C1)NC(C=C2C)(C)C,Ethoxyquin,0,negative
+47,55-38-9,CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC,Fenthion,1,cancer-other
+48,51630-58-1,CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3,Fenvalerate,0,negative
+49,25812-30-0,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O,Gemfibrozil,0,negative
+50,76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,Heptachlor,1,cancer-liver
+51,70-30-4,C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl,Hexachlorophene,0,negative
+52,3778-73-2,C1CN(P(=O)(OC1)NCCCl)CCCl,Isophosphamide,1,cancer-other
+53,88107-10-2,CCCC1=C(C=CC(=C1O)C(=O)C)OCCCCC2=NNN=N2,Compound LY171883,1,cancer-liver
+54,121-75-5,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC,Malathion,0,negative
+55,51-75-2,CN(CCCl)CCCl,Nitrogen mustard,1,cancer-other
+56,100-97-0,C1N2CN3CN1CN(C2)C3,Hexamethylenetetramine,0,negative
+57,298-81-7,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,8-Methoxypsoralen,1,cancer-other
+58,72-43-5,COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl,Methoxychlor,0,negative
+59,443-48-1,CC1=NC=C(N1CCO)[N+](=O)[O-],Metronidazole,1,cancer-liver
+60,0389-08-02,CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O,Nalidixic acid,1,cancer-other
+61,55-63-0,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-],Trinitroglycerin,1,cancer-liver
+62,604-75-1,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O,Oxazepam,1,cancer-liver
+63,106-51-4,C1=CC(=O)C=CC1=O,"1,4-Benzoquinone",1,cancer-liver
+64,149-29-1,C1C=C2C(=CC(=O)O2)C(O1)O,Patulin,0,negative
+65,62-44-2,CCOC1=CC=C(C=C1)NC(=O)C,Phenacetin,1,cancer-other
+66,50-06-6,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,Phenobarbital,1,cancer-liver
+67,2955-38-6,C1CC1CN2C(=O)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4,Prazepam,0,negative
+68,55268-74-1,C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2,Praziquantel,0,negative
+69,671-16-9,CC(C)NC(=O)C1=CC=C(C=C1)CNNC,Procarbazine,1,cancer-other
+70,139-40-2,CC(C)NC1=NC(=NC(=N1)Cl)NC(C)C,Propazine,0,negative
+71,121-79-9,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,Propyl gallate,0,negative
+72,128-44-9,C1=CC=C2C(=C1)C(=O)NS2(=O)=O,"Saccharin, sodium",1,cancer-other
+73,94-59-7,C=CCC1=CC2=C(C=C1)OCO2,Safrole,1,cancer-liver
+74,122-34-9,CCNC1=NC(=NC(=N1)Cl)NCC,Simazine,0,negative
+75,57-68-1,CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C,Sulfamethazine,1,cancer-other
+76,127-69-5,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfisoxazole,0,negative
+77,846-50-4,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3,"Temazepam, pharmaceutical grade",0,negative
+78,23031-25-6,CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O,Terbutaline,1,cancer-other
+79,52-24-4,C1CN1P(=S)(N2CC2)N3CC3,Thio-TEPA,1,cancer-other
+80,50892-23-4,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)O)Cl)C,"[4-Chloro-6-(2,3-xylidino)-2-pyrimidinylthio]acetic acid",1,cancer-liver
+81,50-07-7,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N,Mitomycin-C,1,cancer-other
+82,50-23-7,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,Hydrocortisone,0,negative
+83,50-24-8,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O,Prednisolone,1,cancer-liver
+84,50-28-2,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O,Estradiol,1,cancer-other
+85,50-55-5,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,Reserpine,1,cancer-other
+86,51-03-6,CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2,Piperonyl butoxide,0,negative
+87,53-03-2,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C,Prednisone,0,negative
+88,53-70-3,C1=CC=C2C(=C1)C=CC3=CC4=C(C=CC5=CC=CC=C54)C=C32,"Dibenz(a,h)anthracene",1,cancer-other
+89,53-95-2,CC(=O)N(C1=CC2=C(C=C1)C3=CC=CC=C3C2)O,N-Hydroxy-2-acetylaminofluorene,1,cancer-liver
+90,53-96-3,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2,2-Acetylaminofluorene,1,cancer-liver
+91,92-13-7,CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C,Pilocarpine,0,negative
+92,55-80-1,CC1=CC(=CC=C1)N=NC2=CC=C(C=C2)N(C)C,3'-Methyl-4-dimethylaminoazobenzene,1,cancer-liver
+93,56-23-5,C(Cl)(Cl)(Cl)Cl,Carbon tetrachloride,1,cancer-liver
+94,56-75-7,C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],Chloramphenicol,0,negative
+95,57-14-7,CN(C)N,"1,1-Dimethylhydrazine",1,cancer-liver
+96,57-50-1,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O,Sucrose,0,negative
+97,57-97-6,CC1=C2C=CC3=CC=CC=C3C2=C(C4=CC=CC=C14)C,"7,12-Dimethylbenz(a)anthracene",1,cancer-other
+98,58-15-1,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C,4-Dimethylaminoantipyrine,0,negative
+99,58-33-3,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C.Cl,Promethazine.HCl,0,negative
+100,62-23-7,C1=CC(=CC=C1C(=O)O)[N+](=O)[O-],p-Nitrobenzoic acid,1,cancer-other
+101,63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21,Carbaryl,1,cancer-other
+102,67-72-1,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,Hexachloroethane,1,cancer-liver
+103,67-98-1,CCN(CC)CCOC1=CC=C(C=C1)C(CC2=CC=C(C=C2)OC)(C3=CC=CC=C3)O,MER-25,0,negative
+104,68-23-5,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3CCC(=O)C4,Norethynodrel,0,negative
+105,68-76-8,C1CN1C2=CC(=O)C(=C(C2=O)N3CC3)N4CC4,Trenimon,1,cancer-other
+106,72-33-3,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OC,Mestranol,0,negative
+107,72-54-8,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,"p,p'-DDD",1,cancer-liver
+108,73-22-3,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,l-Tryptophan,0,negative
+109,74-31-7,C1=CC=C(C=C1)NC2=CC=C(C=C2)NC3=CC=CC=C3,Diphenyl-p-phenylenediamine,0,negative
+110,74-83-9,CBr,Methyl bromide,0,negative
+111,76-01-7,C(C(Cl)(Cl)Cl)(Cl)Cl,Pentachloroethane,1,cancer-liver
+112,76-25-5,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@@]53C)F)O,Triamcinolone acetonide,1,cancer-liver
+113,77-06-5,C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O,Gibberellic acid,0,negative
+114,77-46-3,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)C2=CC=C(C=C2)NC(=O)C,"4,4'-Sulfonylbisacetanilide",1,cancer-other
+115,77-47-4,C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl,Hexachlorocyclopentadiene,0,negative
+116,77-65-6,CCC(CC)(C(=O)NC(=O)N)Br,Carbromal,0,negative
+117,77-83-8,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,Ethyl methylphenylglycidate,0,negative
+118,1330-78-5,CC1=CC=C(C=C1)OP(=O)(OC2=CC=C(C=C2)C)OC3=CC=C(C=C3)C,Tricresyl phosphate,0,negative
+119,78-59-1,CC1=CC(=O)CC(C1)(C)C,Isophorone,1,cancer-other
+120,80-05-7,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,Bisphenol A,0,negative
+121,81-16-3,C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)O)N,"2-Naphthylamino,1-sulfonic acid",0,negative
+122,81-21-0,C1C2C3CC4C(C3C1C5C2O5)O4,Dicyclopentadiene dioxide,0,negative
+123,82-28-0,CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)N,1-Amino-2-methylanthraquinone,1,cancer-liver
+124,82-68-8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[N+](=O)[O-],Pentachloronitrobenzene,1,cancer-liver
+125,83-59-0,CCCOC(=O)C1C(CC2=CC3=C(C=C2C1C(=O)OCCC)OCO3)C,n-Propyl isome,0,negative
+126,84-65-1,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,"9,10-Anthraquinone",0,negative
+127,86-29-3,C1=CC=C(C=C1)C(C#N)C2=CC=CC=C2,Diphenylacetonitrile,0,negative
+128,86-30-6,C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O,N-Nitrosodiphenylamine,1,cancer-other
+129,86-74-8,C1=CC=C2C(=C1)C3=CC=CC=C3N2,Carbazole,1,cancer-liver
+130,86-87-3,C1=CC=C2C(=C1)C=CC=C2CC(=O)O,1-Naphthalene acetic acid,0,negative
+131,87-68-3,C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,Hexachlorobutadiene,1,cancer-other
+132,88-19-7,CC1=CC=CC=C1S(=O)(=O)N,o-Toluenesulfonamide,1,cancer-other
+133,88-26-6,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CO,di-tert-Butyl-4-hydroxymethyl phenol,0,negative
+134,88-73-3,C1=CC=C(C(=C1)[N+](=O)[O-])Cl,1-Chloro-2-nitrobenzene,1,cancer-liver
+135,88-85-7,CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,"2-sec-Butyl-4,6-dinitrophenol",0,negative
+136,90-94-8,CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C,Michler's ketone,1,cancer-liver
+137,91-59-8,C1=CC=C2C=C(C=CC2=C1)N,2-Naphthylamine,1,cancer-liver
+138,91-76-9,C1=CC=C(C=C1)C2=NC(=NC(=N2)N)N,Benzoguanamine,0,negative
+139,91-93-0,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=C=O)OC)N=C=O,"3,3'-Dimethoxybenzidine-4,4'-diisocyanate",1,cancer-other
+140,91-94-1,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)Cl)Cl)N,"3,3'-Dichlorobenzidine",1,cancer-other
+141,92-52-4,C1=CC=C(C=C1)C2=CC=CC=C2,Biphenyl,0,negative
+142,92-55-7,CC(=O)OC(C1=CC=C(O1)[N+](=O)[O-])OC(=O)C,5-Nitro-2-furanmethanediol diacetate,0,negative
+143,92-67-1,C1=CC=C(C=C1)C2=CC=C(C=C2)N,4-Aminodiphenyl,1,cancer-liver
+144,92-69-3,C1=CC=C(C=C1)C2=CC=C(C=C2)O,p-Phenylphenol,0,negative
+145,92-84-2,C1=CC=C2C(=C1)NC3=CC=CC=C3S2,Phenothiazine,0,negative
+146,92-87-5,C1=CC(=CC=C1C2=CC=C(C=C2)N)N,Benzidine,1,cancer-liver
+147,93-46-9,C1=CC=C2C=C(C=CC2=C1)NC3=CC=C(C=C3)NC4=CC5=CC=CC=C5C=C4,sym.-dibeta-Naphthyl-p-phenylenediamine,0,negative
+148,94-11-1,CC(C)OC(=O)COC1=C(C=C(C=C1)Cl)Cl,"2,4-Dichlorophenoxyacetic acid,isopropyl ester",0,negative
+149,94-26-8,CCCCOC(=O)C1=CC=C(C=C1)O,Butyl p-hydroxybenzoate,0,negative
+150,94-36-0,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,Novadelox,0,negative
+151,94-52-0,C1=CC2=C(C=C1[N+](=O)[O-])NC=N2,6-Nitrobenzimidazole,1,cancer-liver
+152,94-58-6,CCCC1=CC2=C(C=C1)OCO2,Dihydrosafrole,1,cancer-liver
+153,94-80-4,CCCCOC(=O)COC1=C(C=C(C=C1)Cl)Cl,"2,4-Dichlorophenoxyacetic acid, n-butyl ester",0,negative
+154,95-06-7,CCN(CC)C(=S)SCC(=C)Cl,Sulfallate,1,cancer-other
+155,95-14-7,C1=CC2=NNN=C2C=C1,1H-Benzotriazole,1,cancer-other
+156,95-33-0,C1CCC(CC1)NSC2=NC3=CC=CC=C3S2,N-Cyclohexyl-2-benzothiazole sulfenamide,0,negative
+157,95-79-4,CC1=C(C=C(C=C1)Cl)N,5-Chloro-o-toluidine,1,cancer-liver
+158,96-09-3,C1C(O1)C2=CC=CC=C2,Styrene oxide,1,cancer-other
+159,96-69-5,CC1=CC(=C(C=C1SC2=CC(=C(C=C2C)O)C(C)(C)C)C(C)(C)C)O,"4,4'-Thiobis(6-tert-butyl-m-cresol)",0,negative
+160,97-16-5,C1=CC=C(C=C1)S(=O)(=O)OC2=C(C=C(C=C2)Cl)Cl,"2,4-Dichlorophenylbenzene sulfonate",0,negative
+161,97-56-3,CC1=CC=CC=C1N=NC2=CC(=C(C=C2)N)C,o-Aminoazotoluene,1,cancer-liver
+162,97-74-5,CN(C)C(=S)SC(=S)N(C)C,Tetramethylthiuram monosulfide,0,negative
+163,98-01-1,C1=COC(=C1)C=O,Furfural,1,cancer-liver
+164,99-30-9,C1=C(C=C(C(=C1Cl)N)Cl)[N+](=O)[O-],"2,6-Dichloro-4-nitroaniline",0,negative
+165,99-55-8,CC1=C(C=C(C=C1)[N+](=O)[O-])N,5-Nitro-o-toluidine,1,cancer-liver
+166,99-59-2,COC1=C(C=C(C=C1)[N+](=O)[O-])N,5-Nitro-o-anisidine,1,cancer-liver
+167,100-40-3,C=CC1CCC=CC1,4-Vinylcyclohexene,1,cancer-other
+168,101-25-7,C1N2CN(CN1CN(C2)N=O)N=O,"N,N-Dinitrosopentamethylenetetramine",0,negative
+169,101-61-1,CN(C)C1=CC=C(C=C1)CC2=CC=C(C=C2)N(C)C,"4,4'-Methylenebis(N,N-dimethyl) benzenamine",1,cancer-liver
+170,101-73-5,CC(C)OC1=CC=C(C=C1)NC2=CC=CC=C2,p-Isopropoxydiphenylamine,0,negative
+171,101-79-1,C1=CC(=CC=C1N)OC2=CC=C(C=C2)Cl,4-Chloro-4'-aminodiphenylether,1,cancer-liver
+172,101-80-4,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,"4,4'-Oxydianiline",1,cancer-liver
+173,102-09-0,C1=CC=C(C=C1)OC(=O)OC2=CC=CC=C2,Diphenylcarbonate,0,negative
+174,102-77-2,C1COCCN1SC2=NC3=CC=CC=C3S2,N-Oxydiethylenebenzothiazole-2-sulfenamide,0,negative
+175,103-23-1,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,di(2-Ethylhexyl)adipate,1,cancer-liver
+176,103-72-0,C1=CC=C(C=C1)N=C=S,Phenyl isothiocyanate,0,negative
+177,106-87-6,C1CC2C(O2)CC1C3CO3,"1-Ethyleneoxy-3,4-epoxycyclohexane",0,negative
+178,108-78-1,C1(=NC(=NC(=N1)N)N)N,Melamine,1,cancer-other
+179,114-83-0,CC(=O)NNC1=CC=CC=C1,1-Acetyl-2-phenylhydrazine,1,cancer-liver
+180,115-28-6,C1(C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O,Chlorendic acid,1,cancer-liver
+181,115-32-2,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)(C(Cl)(Cl)Cl)O)Cl,Dicofol,1,cancer-liver
+182,115-96-8,C(CCl)OP(=O)(OCCCl)OCCCl,Tris(2-chloroethyl)phosphate,1,cancer-other
+183,116-29-0,C1=CC(=CC=C1S(=O)(=O)C2=CC(=C(C=C2Cl)Cl)Cl)Cl,"2,4,5,4'-Tetrachlorodiphenyl sulfone",0,negative
+184,117-79-3,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)N,2-Aminoanthraquinone,1,cancer-liver
+185,117-80-6,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl,"2,3-Dichloro-1,4-naphthoquinone",0,negative
+186,117-81-7,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,di(2-Ethylhexyl)phthalate,1,cancer-liver
+187,118-74-1,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,Hexachlorobenzene,1,cancer-liver
+188,119-38-0,CC1=NN(C(=C1)OC(=O)N(C)C)C(C)C,1-Isopropyl-3-methyl-S-pyrazolyldimethyl carbamate,0,negative
+189,119-53-9,C1=CC=C(C=C1)C(C(=O)C2=CC=CC=C2)O,Benzoin,0,negative
+190,120-32-1,C1=CC=C(C=C1)CC2=C(C=CC(=C2)Cl)O,o-Benzyl-p-chlorophenol,1,cancer-other
+191,120-61-6,COC(=O)C1=CC=C(C=C1)C(=O)OC,Dimethyl terephthalate,0,negative
+192,120-62-7,CCCCCCCCS(=O)C(C)CC1=CC2=C(C=C1)OCO2,Piperonyl sulfoxide,1,cancer-liver
+193,120-71-8,CC1=CC(=C(C=C1)OC)N,p-Cresidine,1,cancer-liver
+194,120-78-5,C1=CC=C2C(=C1)N=C(S2)SSC3=NC4=CC=CC=C4S3,Benzothiazyl disulfide,0,negative
+195,121-14-2,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],"2,4-Dinitrotoluene, practical grade",0,negative
+196,129-43-1,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)O,1-Hydroxyanthraquinone,1,cancer-liver
+197,0131-01-01,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=CC=CC=C45)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,Deserpidine,0,negative
+198,131-17-9,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,Diallyl phthalate,1,cancer-other
+199,0133-06-02,C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl,Captan,1,cancer-other
+200,0133-07-03,C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl,N-(Trichloromethylthio)phthalimide,1,cancer-other
+201,133-90-4,C1=C(C=C(C(=C1C(=O)O)Cl)N)Cl,Chloramben,1,cancer-liver
+202,135-23-9,CN(C)CCN(CC1=CC=CS1)C2=CC=CC=N2.Cl,Methapyrilene.HCl,1,cancer-liver
+203,136-40-3,C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N.Cl,Phenazopyridine.HCl,1,cancer-liver
+204,139-13-9,C(C(=O)O)N(CC(=O)O)CC(=O)O,Nitrilotriacetic acid,1,cancer-other
+205,139-94-6,CCNC(=O)NC1=NC=C(S1)[N+](=O)[O-],Nithiazide,1,cancer-liver
+206,150-68-5,CN(C)C(=O)NC1=CC=C(C=C1)Cl,"3-(p-Chlorophenyl)-1,1-dimethylurea",1,cancer-liver
+207,140-57-8,CC(COC1=CC=C(C=C1)C(C)(C)C)OS(=O)OCCCl,Aramite,1,cancer-liver
+208,0156-10-5,C1=CC=C(C=C1)NC2=CC=C(C=C2)N=O,p-Nitrosodiphenylamine,1,cancer-liver
+209,0262-12-4,C1=CC=C2C(=C1)OC3=CC=CC=C3O2,Dibenzo-p-dioxin,0,negative
+210,271-89-6,C1=CC=C2C(=C1)C=CO2,Benzofuran,1,cancer-liver
+211,297-76-7,CC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@]4(C#C)OC(=O)C)C,Ethynodiol diacetate,0,negative
+212,297-78-9,C12C(C(OC1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,Telodrin,0,negative
+213,302-22-7,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2C=C(C4=CC(=O)CC[C@]34C)Cl)C)OC(=O)C,Chlormadinone acetate,0,negative
+214,315-18-4,CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC,Mexacarbate,0,negative
+215,315-22-0,C[C@H]1C(=O)O[C@@H]2CCN3[C@@H]2C(=CC3)COC(=O)[C@]([C@]1(C)O)(C)O,Monocrotaline,1,cancer-liver
+216,320-67-2,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,5-Azacytidine,1,cancer-other
+217,324-93-6,C1=CC(=CC=C1C2=CC=C(C=C2)F)N,4'-Fluoro-4-aminodiphenyl,1,cancer-liver
+218,363-17-7,C1C2=CC=CC=C2C3=C1C=C(C=C3)NC(=O)C(F)(F)F,"N-(2-Fluorenyl)-2,2,2-trifluoroacetamide",1,cancer-liver
+219,398-32-3,CC(=O)NC1=CC=C(C=C1)C2=CC=C(C=C2)F,N-4-(4'-Fluorobiphenyl)acetamide,1,cancer-other
+220,474-25-9,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C,Chenodeoxycholic acid,0,negative
+221,493-78-7,CN(C)CCN(CC1=CC=CS1)C2=CC=CC=C2,Methaphenilene,0,negative
+222,509-14-8,C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-],Tetranitromethane,1,cancer-other
+223,510-15-6,CCOC(=O)C(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O,Chlorobenzilate,1,cancer-liver
+224,531-82-8,CC(=O)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-],N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide,1,cancer-other
+225,538-23-8,CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,Tricaprylin,0,negative
+226,538-41-0,C1=CC(=CC=C1N)N=NC2=CC=C(C=C2)N,"4,4'-Diaminoazobenzene",0,negative
+227,569-57-3,COC1=CC=C(C=C1)C(=C(C2=CC=C(C=C2)OC)Cl)C3=CC=C(C=C3)OC,Tace,0,negative
+228,602-87-9,C1CC2=CC=C(C3=CC=CC1=C23)[N+](=O)[O-],5-Nitroacenaphthene,1,cancer-liver
+229,606-20-2,CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-],"2,6-Dinitrotoluene",1,cancer-liver
+230,607-35-2,C1=CC2=C(C(=C1)[N+](=O)[O-])N=CC=C2,8-Nitroquinoline,1,cancer-other
+231,613-50-3,C1=CC2=C(C=CC(=C2)[N+](=O)[O-])N=C1,6-Nitroquinoline,0,negative
+232,625-89-8,C(C(F)(F)F)N(CC(F)(F)F)N=O,"N-Nitrosobis(2,2,2-trifluoroethyl) amine",0,negative
+233,628-36-4,C(=O)NNC=O,"1,2-Diformylhydrazine",1,cancer-other
+234,684-93-5,CN(C(=O)N)N=O,N-Nitroso-N-methylurea,1,cancer-other
+235,756-79-6,COP(=O)(C)OC,Dimethyl methylphosphonate,1,cancer-other
+236,759-73-9,CCN(C(=O)N)N=O,1-Ethyl-1-nitrosourea,1,cancer-other
+237,828-00-2,CC1CC(OC(O1)C)OC(=O)C,Dimethoxane,1,cancer-liver
+238,838-88-0,CC1=C(C=CC(=C1)CC2=CC(=C(C=C2)N)C)N,"4,4'-Methylene-bis(2-methylaniline)",1,cancer-liver
+239,842-00-2,CCS(=O)(=O)C1=CC=C(C2=CC=CC=C21)S(=O)(=O)N,4-Ethylsulphonylnaphthalene-1-sulfonamide,1,cancer-other
+240,924-16-3,CCCCN(CCCC)N=O,Nitrosodibutylamine,1,cancer-liver
+241,932-83-2,C1CCCN(CC1)N=O,N-Nitrosohexamethyleneimine,1,cancer-liver
+242,950-37-8,COC1=NN(C(=O)S1)CSP(=S)(OC)OC,Methidathion,1,cancer-liver
+243,1083-57-4,CCOC1=CC=C(C=C1)NC(=O)CC(C)O,3-Hydroxy-p-butyrophenetidide,1,cancer-other
+244,1095-90-5,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2.Cl,"6-Dimethylamino-4,4-diphenyl-3-heptanone.HCl",0,negative
+245,1114-71-2,CCCCN(CC)C(=O)SCCC,Propyl N-ethyl-N-butylthiocarbamate,0,negative
+246,1120-71-4,C1COS(=O)(=O)C1,Propane sultone,1,cancer-other
+247,853-23-6,CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C,Dehydroepiandrosterone acetate,1,cancer-liver
+248,1420-04-08,C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O.C(CO)N,Clonitralid,0,negative
+249,1465-25-4,C1=CC=C2C(=C1)C=CC=C2NCCN.Cl.Cl,N-(1-Naphthyl)ethylenediamine.2HCl,0,negative
+250,1634-78-2,CCOC(=O)CC(C(=O)OCC)SP(=O)(OC)OC,Malaoxon,0,negative
+251,1643-20-5,CCCCCCCCCCCC[N+](C)(C)[O-],"N,N-Dimethyldodecylamine-N-oxide",0,negative
+252,1746-01-06,C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C=C3O2)Cl)Cl,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",1,cancer-liver
+253,1777-84-0,CCOC1=C(C=C(C=C1)NC(=O)C)[N+](=O)[O-],3-Nitro-p-acetophenetide,1,cancer-liver
+254,1836-75-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl,Nitrofen,1,cancer-liver
+255,1897-45-6,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl,Chlorothalonil,1,cancer-other
+256,1955-45-9,CC1(COC1=O)C,Pivalolactone,1,cancer-other
+257,9/8/2104,C1=CC(=CC=C1C2=CSC(=N2)N)[N+](=O)[O-],2-Amino-4-(p-nitrophenyl)thiazole,1,cancer-other
+258,2122-86-3,C1=C(OC(=C1)[N+](=O)[O-])C2=NNC(=O)O2,"5-(5-Nitro-2-furyl)-1,3,4-oxadiazole-2-ol",1,cancer-other
+259,2163-79-3,CN(C)C(=O)NC1CC2CC1C3C2CCC3,"3-(Hexahydro-4,7-methanoindan-5-yl)-1,1-dimethylurea",0,negative
+260,2227-13-6,C1=CC(=CC=C1SC2=CC(=C(C=C2Cl)Cl)Cl)Cl,"p-Chlorophenyl-2,4,5-trichlorophenyl sulfide",0,negative
+261,2243-62-1,C1=CC2=C(C=CC=C2N)C(=C1)N,"1,5-Naphthalenediamine",1,cancer-liver
+262,2385-85-5,C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl,Mirex,1,cancer-liver
+263,6/1/2425,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl,Captafol,1,cancer-liver
+264,2432-99-7,C(CCCCCN)CCCCC(=O)O,11-Aminoundecanoic acid,1,cancer-liver
+265,2438-88-2,COC1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl,"2,3,5,6-Tetrachloro-4-nitroanisole",0,negative
+266,10/3/2439,CCCCCCCCCCCCN=C(N)N.CC(=O)O,n-Dodecylguanidine acetate,0,negative
+267,2465-27-2,CN(C)C1=CC=C(C=C1)C(=N)C2=CC=C(C=C2)N(C)C.Cl,Auramine-O,1,cancer-liver
+268,2578-75-8,CC(=O)NC1=NN=C(S1)C2=CC=C(O2)[N+](=O)[O-],"N-[5-(5-Nitro-2-furyl)-1,3,4-thiadiazol-2-yl]acetamide",1,cancer-liver
+269,2698-41-1,C1=CC=C(C(=C1)C=C(C#N)C#N)Cl,o-Chlorobenzalmalonitrile,0,negative
+270,3096-50-2,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2=O,N-(9-Oxo-2-fluorenyl)acetamide,1,cancer-liver
+271,3012-65-5,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[NH4+].[NH4+].[NH4+],Ammonium citrate,0,negative
+272,3544-23-8,COC1=C(C=CC(=C1)N=NC2=CC=CC=C2)N,3-Methoxy-4-aminoazobenzene,1,cancer-liver
+273,3693-22-9,C1=CC=C2C(=C1)C3=C(O2)C=CC(=C3)N,2-Aminodiphenylene oxide,1,cancer-liver
+274,3771-19-5,CC(C)(C(=O)O)OC1=CC=C(C=C1)C2CCCC3=CC=CC=C23,Nafenopin,1,cancer-liver
+275,11/6/3817,CCCCN(CCCCO)N=O,N-Butyl-N-(4-hydroxybutyl)nitrosamine,1,cancer-other
+276,4075-79-0,CC(=O)NC1=CC=C(C=C1)C2=CC=CC=C2,4-Acetylaminobiphenyl,1,cancer-other
+277,4463-22-3,CC(=O)N(C1=CC=C(C=C1)C2=CC=CC=C2)O,3-Hydroxy-4-acetylaminobiphenyl,0,negative
+278,4812-22-0,CCC=C(CC)[N+](=O)[O-],3-Nitro-3-hexene,1,cancer-other
+279,5208-87-7,C=CC(C1=CC2=C(C=C1)OCO2)O,1'-Hydroxysafrole,1,cancer-liver
+280,0531-06-06,CN(C)CCN(CC1=CC=CO1)C2=CC=CC=N2,Methafurylene,0,negative
+281,5800-19-1,CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C,Metiapine,0,negative
+282,5834-17-3,COC1=C(C=C2C(=C1)C3=CC=CC=C3O2)N,2-Methoxy-3-aminodibenzofuran,1,cancer-other
+283,10/1/6120,CC1=CC(=CC(=C1N(C)C)C)O,"4-Dimethylamino-3,5-xylenol",0,negative
+284,6385-58-6,C1=C(C=C(C(=C1SC2=C(C(=CC(=C2)Cl)Cl)[O-])[O-])Cl)Cl.[Na+].[Na+],Sodium bithionolate,0,negative
+285,7227-91-0,CN(C)N=NC1=CC=CC=C1,"1-Phenyl-3,3-dimethyltriazene",1,cancer-other
+286,7411-49-6,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N.Cl.Cl.Cl.Cl,"3,3',4,4'-Tetraaminobiphenyl.4HCl",1,cancer-liver
+287,7422-80-2,CCCCN(CCCC)N,"1,1-di-n-Butylhydrazine",1,cancer-liver
+288,25168-26-7,CC(C)CCCCCOC(=O)COC1=C(C=C(C=C1)Cl)Cl,"2,4-Dichlorophenoxyacetic acid, isooctyl ester",0,negative
+289,122-42-9,CC(C)OC(=O)NC1=CC=CC=C1,Isopropyl-N-phenyl carbamate,0,negative
+290,122-20-3,CC(CN(CC(C)O)CC(C)O)O,Tris(2-hydroxypropyl)amine,0,negative
+291,10473-70-8,C#CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OC(=O)N,1-(4-Chlorophenyl)-1-phenyl-2-propynyl carbamate,1,cancer-other
+292,17026-81-2,CCOC1=C(C=C(C=C1)NC(=O)C)N,3-Amino-4-ethoxyacetanilide,1,cancer-other
+293,17608-59-2,CC(C(C1=CC=CC=C1)O)N(C)N=O,N-Nitrosoephedrine,1,cancer-liver
+294,18523-69-8,CC(=NNC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-])C,Acetone[4-(5-nitro-2-furyl)-2-thiazolyl] hydrazone,1,cancer-other
+295,18883-66-4,CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O,Streptozotocin,1,cancer-other
+296,20917-49-1,C1CCCN(CCC1)N=O,Nitrosoheptamethyleneimine,1,cancer-liver
+297,21340-68-1,CC(C)(C(=O)OC)OC1=CC=C(C=C1)C2=CC=C(C=C2)Cl,Methyl clofenapate,1,cancer-liver
+298,21416-87-5,CC(CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2,ICRF-159,1,cancer-other
+299,21498-08-08,CC(C1=NCCN1)OC2=C(C=CC=C2Cl)Cl.Cl,Lofexidine.HCl,0,negative
+300,21626-89-1,C1C2=CC=CC=C2C(=O)N3N1C(=O)C4=CC=CC=C4C3,Diftalone,1,cancer-liver
+301,21884-44-6,CC1=CC(=C2C(=C1O)C(=O)C34C5C6C(C3C(=O)C7=C(C8=C(C=C(C(=C8C(=O)C67C(C5O)C(=O)C4=C2O)O)C)O)O)O)O,Luteoskyrin,1,cancer-liver
+302,21928-82-5,CN(C1=NC=NC2=C1NC=N2)N=O,(N-6)-(Methylnitroso)adenosine,1,cancer-other
+303,122-60-1,C1C(O1)COC2=CC=CC=C2,Phenylglycidyl ether,1,cancer-other
+304,122-66-7,C1=CC=C(C=C1)NNC2=CC=CC=C2,Hydrazobenzene,1,cancer-liver
+305,126-72-7,C(C(CBr)Br)OP(=O)(OCC(CBr)Br)OCC(CBr)Br,"Tris(2,3-dibromopropyl)phosphate",1,cancer-liver
+306,128-37-0,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,Butylated hydroxytoluene,1,cancer-liver
+307,129-15-7,CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)[N+](=O)[O-],2-Methyl-1-nitroanthraquinone,1,cancer-liver
+308,22760-18-5,CC1=CC2=C(C=C1)C(=NC(=O)N2C(C)C)C3=CC=CC=C3,Proquazone,0,negative
+309,22966-79-6,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CC4=CC=C(C=C4)N(CCCl)CCCl)CCC5=C3C=CC(=C5)OC(=O)CC6=CC=C(C=C6)N(CCCl)CCCl,Estradiol mustard,1,cancer-other
+310,23950-58-5,CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl,"3,5-Dichloro(N-1,1-dimethyl-2-propynyl)benzamide",1,cancer-liver
+311,37087-94-8,C[C@@H]1C[C@@H](CN(C1)S(=O)(=O)C2=CC(=C(C=C2)Cl)C(=O)O)C,"2-Chloro-5-(3,5-dimethylpiperidinosulphonyl)benzoic acid",1,cancer-liver
+312,24554-26-5,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NC=O,N-[4-(5-Nitro-2-furyl)-2-thiazolyl]formamide,1,cancer-other
+313,25081-31-6,C(C(=O)O)N(CC(=O)O)N=O,Nitrosoiminodiacetic acid,0,negative
+314,56-86-0,C(CC(=O)O)[C@@H](C(=O)O)N,l-Glutamic acid,0,negative
+315,26308-28-1,CCN1C2=C(C(=N1)C)NC(=O)CN=C2C3=CC=CC=C3,Ripazepam,1,cancer-liver
+316,29069-24-7,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CCCC4=CC=C(C=C4)N(CCCl)CCCl)O)CCC5=CC(=O)C=C[C@]35C)O,Prednimustine,1,cancer-other
+317,31873-81-1,C1=COC(=C1)C2=CSC(=N2)NNC=O,Formic acid 2-[4-(2-furyl)-2-thiazolyl] hydrazide,0,negative
+318,32852-21-4,CC1=CSC(=N1)NNC=O,Formic acid 2-(4-methyl-2-thiazolyl) hydrazide,1,cancer-other
+319,34627-78-6,CC(=O)OC(C=C)C1=CC2=C(C=C1)OCO2,1'-Acetoxysafrole,1,cancer-other
+320,38514-71-5,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)N,2-Amino-4-(5-nitro-2-furyl)thiazole,1,cancer-other
+321,38777-13-8,CC(C)OC1=CC=CC=C1OC(=O)N(C)N=O,Nitroso-Baygon,1,cancer-other
+322,40580-89-0,C1CCCCCCN(CCCCC1)N=O,Nitrosododecamethyleneimine,1,cancer-liver
+323,40762-15-0,C1=CC=C(C(=C1)C2=NC(C(=O)N(C3=C2C=C(C=C3)Cl)CCO)O)F,Doxefazepam,0,negative
+324,42011-48-3,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NC(=O)C(F)(F)F,"2,2,2-Trifluoro-N-[4-(5-nitro-2- furyl)-2-thiazolyl]acetamide",1,cancer-other
+325,43033-72-3,CC[C@@H](C(C[C@H](C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C.Cl,"6-Dimethylamino-4,4-diphenyl-3-heptanolacetate.HCl",1,cancer-liver
+326,51410-44-7,COC1=CC=C(C=C1)C(C=C)O,1'-Hydroxyestragole,1,cancer-liver
+327,51715-17-4,CN(C1=NC2=C(C=C(C=C2)Cl)C(=[N+](C1)[O-])C3=CC=CC=C3)N=O,Nitrosochlordiazepoxide,0,negative
+328,52918-63-5,CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C,Deltamethrin,0,negative
+329,54143-56-5,CC(=O)O.C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,Flecainide acetate,0,negative
+330,55090-44-3,CCCCCCCCCCCCN(C)N=O,N-Nitroso-N-methyl-N-dodecylamine,1,cancer-liver
+331,55557-00-1,C1CN(CCN(C1)N=O)N=O,Dinitrosohomopiperazine,1,cancer-liver
+332,55557-03-04,COC(=O)C(C1CCCCN1N=O)C2=CC=CC=C2,Nitrosomethylphenidate,0,negative
+333,50594-66-6,C1=CC(=C(C=C1C(F)(F)F)Cl)OC2=CC(=C(C=C2)[N+](=O)[O-])C(=O)O,Acifluorfen,1,cancer-liver
+334,63019-65-8,CC(=O)N(C1=CC=CC2=C1CC3=CC=CC=C32)C(=O)C,N-1-Diacetamidofluorene,1,cancer-other
+335,63412-06-06,CN(C(=O)C1=CC=CC=C1)N=O,N-Methyl-N-nitrosobenzamide,1,cancer-other
+336,64005-62-5,CCCCCN(C(=O)OCC)N=O,Nitrosoamylurethane,1,cancer-other
+337,64091-91-4,CN(CCCC(=O)C1=CN=CC=C1)N=O,4-(Methylnitrosamino)-1-(3-pyridyl)-1-(butanone),1,cancer-liver
+338,67730-10-3,C1=CC2=NC3=C(N2C=C1)N=C(C=C3)N,Glu-P-2,1,cancer-liver
+339,67730-11-4,CC1=CC=CN2C1=NC3=C2N=C(C=C3)N,Glu-P-1,1,cancer-liver
+340,73785-40-7,CC1=C(N=CN1)CSCCN=C(NC#N)N(C)N=O,N-Nitrosocimetidine,0,negative
+341,75881-22-0,CCCCCCCCCCN(C)N=O,N-Nitroso-N-methyldecylamine,1,cancer-liver
+342,76180-96-6,CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N,IQ,1,cancer-liver
+343,81795-07-05,CC1N(C(SC(S1)C)C)N=O,N-Nitrosothialdine,1,cancer-liver
+344,82018-90-4,CCN(CC(F)(F)F)N=O,"N-Nitroso(2,2,2-trifluoroethyl) ethylamine",1,cancer-other
+345,83335-32-4,C(CC(F)(F)F)CN(CCCC(F)(F)F)N=O,"N-Nitroso-bis-(4,4,4-trifluoro-N-butyl)amine",1,cancer-liver
+346,86315-52-8,COC1=C(C=CC(=C1)S(=O)C)C2=NC3=C(N2)C=NC=C3,Isomazole,1,cancer-other
+347,88133-11-3,CCOCCC1=C(N=C(N2C1=NC=N2)N)C3=CC=CC=C3,Bemitradine,1,cancer-liver
+348,43054-45-1,CCN(CC)CCOC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,Clomiphene citrate,0,negative
+349,51-02-5,CC(C)NCC(C1=CC2=CC=CC=C2C=C1)O.Cl,Pronethalol.HCl,0,negative
+350,57-39-6,CC1CN1P(=O)(N2CC2C)N3CC3C,Metepa,1,cancer-other
+351,99-80-9,CN(C1=CC=C(C=C1)N=O)N=O,"N-Methyl-N,4-dinitrosoaniline",1,cancer-other
+352,156-51-4,C1=CC=C(C=C1)CCNN.OS(=O)(=O)O,Phenylethylhydrazine sulfate,1,cancer-other
+353,712-68-5,C1=C(OC(=C1)[N+](=O)[O-])C2=NN=C(S2)N,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole",1,cancer-other
+354,13483-18-6,C(COCCl)OCCl,"Bis-1,2-(chloromethoxy)ethane",1,cancer-other
+355,56894-91-8,C1=CC(=CC=C1COCCl)COCCl,"Bis-1,4-(chloromethoxy)-p-xylene",1,cancer-other
+356,6109-97-3,CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31.Cl,3-Amino-9-ethylcarbazole.HCl,1,cancer-liver
+357,68006-83-7,CC1=CC2=C(NC3=CC=CC=C32)N=C1N,MeA-alpha-C,1,cancer-liver
+358,77094-11-2,CC1=CC2=C(C=CC=N2)C3=C1N(C(=N3)N)C,MeIQ,1,cancer-liver
+359,77500-04-0,CC1=CN=C2C=CC3=C(C2=N1)N=C(N3C)N,MeIQx,1,cancer-liver
+360,20325-40-0,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N.Cl.Cl,"3,3'-Dimethoxybenzidine.2HCl",1,cancer-liver
+361,81-15-2,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],"2,4,6-Trinitro-1,3-dimethyl-5-tert-butylbenzene",1,cancer-liver
+362,531-18-0,C(N(CO)C1=NC(=NC(=N1)N(CO)CO)N(CO)CO)O,Hexamethylmelamine,1,cancer-other
+363,26148-68-5,C1=CC=C2C(=C1)C3=C(N2)N=C(C=C3)N,A-alpha-C,1,cancer-liver
+364,59333-67-4,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F.Cl,Fluoxetine.HCl,0,negative
+365,318-98-9,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O.Cl,Propranolol.HCl,0,negative
+366,38571-73-2,C(C(COCCl)OCCl)OCCl,"Tris-1,2,3-(chloromethoxy)propane",1,cancer-other
+367,65765-07-03,CC1=CC2=C(C=C1)C(=NC(=O)N2C(C)C)C3=CC(=CC=C3)O,Compound 50-892,0,negative
+368,33389-33-2,C1=CC=C2C(=C1)C(=O)NC(N2)C3=CC=C(S3)[N+](=O)[O-],"1,2-Dihydro-2-(5-nitro-2-thienyl) quinazolin-4(3H)-one",1,cancer-other
+369,244-63-3,C1=CC=C2C(=C1)C3=C(N2)C=NC=C3,Norharman,0,negative
+370,3131-60-0,C1=NN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,6-Azacytidine,0,negative
+371,959-24-0,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O.Cl,Sotalol.HCl,0,negative
+372,533-31-3,C1OC2=C(O1)C=C(C=C2)O,Sesamol,1,cancer-other
+373,60784-46-5,C(CO)NC(=O)N(CCCl)N=O,1-(2-HYDROXYETHYL)-NITROSO-3-CHLOROETHYLUREA,1,cancer-liver
+374,65089-17-0,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)NCCO)Cl)C,"4-Chloro-6-(2,3-xylidino)-2-pyrimidinylthio(N-beta-hydroxyethyl)acetamide",1,cancer-liver
+375,720-69-4,C1=C(OC(=C1)[N+](=O)[O-])C2=NC(=NC(=N2)N)N,"4,6-Diamino-2-(5-nitro-2-furyl)-S-triazine",1,cancer-other
+376,760-60-1,CC(C)CN(C(=O)N)N=O,N-Nitroso-N-isobutylurea,1,cancer-other
+377,785-30-8,C1=CC(=CC=C1C(=O)NC2=CC=C(C=C2)N)N,"4,4'-Diaminobenzanilide",0,negative
+378,971-15-3,C1CCN(CC1)C(=S)SSSSSSC(=S)N2CCCCC2,Dipentamethylenethiuram hexasulfide,0,negative
+379,1011-73-0,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[O-].[Na+],"2,4-Dinitrophenol, sodium",0,negative
+380,1241-27-6,CCCCCCCNCC1CCC(CC1)CNCCCCCCC.Cl.Cl,Heptylamine,0,negative
+381,6452-73-9,CC(C)NCC(COC1=CC=CC=C1OCC=C)O.Cl,Oxprenolol.HCl,0,negative
+382,1078-38-2,CC(=O)NNC(=O)C1=CC=NC=C1,1-Acetyl-2-isonicotinoylhydrazine,1,cancer-other
+383,24365-47-7,CC(C)C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C,Leupeptin,1,cancer-liver
+384,3775-55-1,C1=C(OC(=C1)[N+](=O)[O-])C2=NN=C(O2)N,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-oxadiazole",1,cancer-other
+385,3851-16-9,CN(C(=O)C1=CC=CC=C1C(=O)N(C)N=O)N=O,"N,N'-Dimethyl-N,N'-dinitrosophthalamide",0,negative
+386,7347-49-1,CCN(CC)C1=CC=C(C=C1)N=NC2=CC=[N+](C=C2)[O-],"N,N-Diethyl-4-(4'-[pyridyl-1'- oxide]azo)aniline",1,cancer-liver
+387,10589-74-9,CCCCCN(C(=O)N)N=O,1-Amyl-1-nitrosourea,1,cancer-other
+388,13256-11-6,CN(CCC1=CC=CC=C1)N=O,Nitroso-N-methyl-N-(2-phenyl)ethylamine,1,cancer-liver
+389,13743-07-02,C(CO)N(C(=O)N)N=O,1-(2-Hydroxyethyl)-1-nitrosourea,1,cancer-other
+390,13752-51-7,C1COCCN1C(=S)SN2CCOCC2,N-Oxydiethylene thiocarbamyl- N-oxydiethylene sulfenamide,1,cancer-other
+391,16813-36-8,C1CN(C(=O)NC1=O)N=O,"1-Nitroso-5,6-dihydrouracil",1,cancer-liver
+392,16699-10-8,CN(C1=CC=C(C=C1)C=CC2=CC=NC3=CC=CC=C23)N=O,4-(4-N-Methyl-N-nitrosaminostyryl)quinoline,1,cancer-liver
+393,54-11-5,CN1CCC[C@H]1C2=CN=CC=C2,Nicotine,0,negative
+394,24589-77-3,C1=CC(=CC=C1C(=O)O)NN.Cl,p-Hydrazinobenzoic acid.HCl,1,cancer-other
+395,39801-14-4,C12C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl,"Mirex, photo-",1,cancer-other
+396,26049-69-4,CN(C)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-],"2-(2,2-Dimethylhydrazino)-4-(5-nitro-2-furyl)thiazole",1,cancer-other
+397,298-18-0,C1[C@@H](O1)[C@H]2CO2,"d,l-Diepoxybutane",0,negative
+398,51542-33-7,CN(C(=O)NC1=NC2=CC=CC=C2S1)N=O,N-Nitrosobenzthiazuron,1,cancer-other
+399,56654-52-5,CCCCNC(=O)N(CCCC)N=O,"1,3-Dibutyl-1-nitrosourea",1,cancer-other
+400,26049-71-8,C1=CC(=CC=C1C2=CSC(=N2)NN)N,2-Hydrazino-4-(p-aminophenyl) thiazole,1,cancer-other
+401,42579-28-2,C1C(=O)NC(=O)N1N=O,1-Nitrosohydantoin,1,cancer-other
+402,63885-23-4,CCN=C(N)N(N=O)[N+](=O)[O-],N-Ethyl-N'-nitro-N-nitrosoguanidine,1,cancer-other
+403,34176-52-8,C1=CC=C(C=C1)C2=CSC(=N2)NN,2-Hydrazino-4-phenylthiazole,0,negative
+404,13483-19-7,C(CCOCCl)COCCl,"Bis-1,4-(chloromethoxy)butane",0,negative
+405,1867-73-8,CNC1=C2C(=NC=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O,(N-6)-Methyladenosine,0,negative
+406,29611-03-08,COC1=C2C3=C([C@H](CC3)O)C(=O)OC2=C4[C@@H]5C=CO[C@@H]5OC4=C1,Aflatoxicol,1,cancer-liver
+407,63642-17-1,CN(C(=O)NCCC[C@@H](C(=O)O)N)N=O,N-(N-Methyl-N-nitrosocarbamoyl)-l-ornithine,1,cancer-other
+408,65734-38-5,CC(=O)NNC1=CC=C(C=C1)CO,N'-Acetyl-4-(hydroxymethyl) phenylhydrazine,1,cancer-other
+409,53757-28-1,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC=N2,4-(5-Nitro-2-furyl)thiazole,1,cancer-other
+410,75881-20-8,CCCCCCCCCCCCCCN(C)N=O,N-Nitroso-N-methyl-N-tetradecylamine,1,cancer-other
+411,36133-88-7,CC(=O)NCC1=NC(=NO1)C2=CC=C(O2)[N+](=O)[O-],"N-{[3-(5-Nitro-2-furyl)-1,2,4-oxadiazole-5-yl]-methyl}acetamide",1,cancer-other
+412,71752-70-0,C(CN(C(=O)N)N=O)CO,1-(3-Hydroxypropyl)-1-nitrosourea,1,cancer-other
+413,91308-69-9,C=CCN(CCO)N=O,N-Nitrosoallylethanolamine,1,cancer-liver
+414,96806-35-8,CC(CN(C(=O)NCCCl)N=O)O,1-(2-Hydroxypropyl)-nitroso-3-chloroethylurea,1,cancer-other
+415,59-05-2,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,Methotrexate,0,negative
+416,78246-24-9,C1CC(N(C1)N=O)C2=C[N+](=CC=C2)[O-],N'-Nitrosonornicotine-1-N-oxide,1,cancer-other
+417,89911-78-4,C(CO)N(CC(CO)O)N=O,"N-Nitroso-2,3-dihydroxypropylethanolamine",1,cancer-liver
+418,68107-26-6,CCCCCCCCCCCN(C)N=O,Nitrosomethylundecylamine,1,cancer-liver
+419,22839-47-0,COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N,Aspartame,0,negative
+420,75896-33-2,CC(CN(CCO)N=O)O,N-Nitroso-(2-hydroxypropyl)-(2-hydroxyethyl)amine,1,cancer-liver
+421,1150-42-1,COC1=CC2=C(C3=C(C(=O)CC3)C(=O)O2)C(=C1)OC,"5,7-Dimethoxycyclopentenone[3,2-c] coumarin",0,negative
+422,88208-16-6,C=CCN(CC(CO)O)N=O,"N-Nitrosoallyl-2,3-dihydroxypropylamine",1,cancer-other
+423,17697-53-9,CC(C)N=[N+](C(C)C)[O-],2-Azoxypropane,1,cancer-other
+424,18774-85-1,CCCCCCN(C(=O)N)N=O,N-Hexylnitrosourea,1,cancer-other
+425,33372-39-3,C1=CC=C2C(=C1)C(=NC(=N2)C3=CC=C(S3)[N+](=O)[O-])N(CCO)CCO,4-Bis(2-hydroxyethyl)amino-2-(5-nitro-2-thienyl)quinazoline,1,cancer-other
+426,33389-36-5,C1=CC=C2C(=C1)C(=NC(=N2)C3=CC=C(S3)[N+](=O)[O-])NCCO,4-(2-Hydroxyethylamino)-2-(5-nitro-2-thienyl)quinazoline,1,cancer-other
+427,38347-74-9,C1COC(=O)N1N=O,3-Nitroso-2-oxazolidinone,1,cancer-liver
+428,51325-35-0,CC(=O)NC1=NC(=NC(=N1)C2=CC=C(O2)[N+](=O)[O-])NC(=O)C,"N,N'-[6-(5-Nitro-2-furyl)-S-triazine-2,4-diyl]bisacetamide",1,cancer-other
+429,58139-48-3,C1COCCN1C2=NC(=NC3=CC=CC=C32)C4=CC=C(S4)[N+](=O)[O-],4-Morpholino-2-(5-nitro-2-thienyl) quinazoline,1,cancer-other
+430,63886-77-1,C1(=C(C(=C(C(=C1F)F)F)N)F)N.Cl.Cl,Tetrafluoro-m-phenylenediamine.2HCl,1,cancer-liver
+431,61034-40-0,CC1CN(CC(N1C(=O)C2=CC=CC=C2)C)N=O,"1-Nitroso-3,5-dimethyl-4-benzoylpiperazine",1,cancer-other
+432,75881-18-4,CC1CN(CC(N1C)C)N=O,"1-Nitroso-3,4,5-trimethylpiperazine",1,cancer-other
+433,92177-50-9,CC(=O)CNCC(C(N=O)O)O,"Nitroso-2,3-dihydroxypropyl-2-oxopropylamine",1,cancer-other
+434,34522-69-5,C1=CC2=C(C=C(C=C2Br)Br)N=C1,"5,7-Dibromoquinoline",0,negative
+435,75011-65-3,CC(C)C(=O)OC1=C(C=C(C=C1)CCNC)OC(=O)C(C)C.Cl,"N-Methyldopamine,O,O'-diisobutyroylester.HCl",0,negative
+436,75198-31-1,C1=CC2=NC=C(N2C=C1)C3=CC=C(O3)[N+](=O)[O-],"3-(5-Nitro-2-furyl)-imidazo(1,2-alpha) pyridine",1,cancer-other
+437,59-35-8,CC1=CC(=NC(=N1)C2=CC=C(O2)[N+](=O)[O-])C,"4,6-Dimethyl-2-(5-nitro-2-furyl) pyrimidine",1,cancer-other
+438,1146-71-0,COC1=CC2=C(C3=C(CCC3)C(=O)O2)C(=C1)OC,"5,7-Dimethoxycyclopentene[c]coumarin",0,negative
+439,51-55-8,CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,Atropine,0,negative
+440,1162-65-8,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4[C@@H]5C=CO[C@@H]5OC4=C1,Aflatoxin B1,1,cancer-liver
+441,477-30-5,CN[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC,Colcemid,0,negative
+442,865-21-4,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O,Vinblastine,0,negative
+443,1508-45-8,CCNNC(=O)[C@H]1[C@@H]([C@H](C2=CC3=C(C=C2[C@H]1C4=CC(=C(C(=C4)OC)OC)OC)OCO3)O)CO,Proresid,0,negative
+444,13256-06-09,CCCCCN(CCCCC)N=O,Dipentylnitrosamine,1,cancer-liver
+445,10/9/3546,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OC(=O)CC5=CC=C(C=C5)N(CCCl)CCCl)C)C,Phenesterin,1,cancer-other
+446,7008-42-6,CC1(C=CC2=C3C(=C(C=C2O1)OC)C(=O)C4=CC=CC=C4N3C)C,Acronycine,1,cancer-other
+447,2757-90-6,C1=CC(=CC=C1CO)NNC(=O)CC[C@@H](C(=O)O)N,beta-N-[gamma-l(+)-Glutamyl]-4-hydroxymethylphenylhydrazine,0,negative
+448,5989-27-5,CC1=CC[C@@H](CC1)C(=C)C,d-Limonene,1,cancer-other
+449,0126-07-08,C[C@@H]1CC(=O)C=C([C@]12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC,Griseofulvin,1,cancer-liver
+450,17673-25-5,C[C@@H]1[C@H]([C@@]2([C@@H](C2(C)C)[C@H]3[C@]1([C@@H]4C=C(C(=O)[C@]4(CC(=C3)CO)O)C)O)O)O,Phorbol,1,cancer-other
+451,517-28-2,C1C2=CC(=C(C=C2[C@H]3[C@@]1(COC4=C3C=CC(=C4O)O)O)O)O,Hematoxylin,1,cancer-other
+452,303-47-9,C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl,Ochratoxin A,1,cancer-liver
+453,302-79-4,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C,Retinoic acid,0,negative
+454,56-53-1,CC/C(=C(/CC)\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)O,Diethylstilbestrol,1,cancer-other
+455,54749-90-5,C(CCl)N(C(=O)N[C@@H](C=O)[C@H]([C@@H]([C@@H](CO)O)O)O)N=O,Chlorozotocin,1,cancer-other
+456,50-76-0,C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C,Actinomycin D,1,cancer-other
+457,0115-02-06,C([C@@H](C(=O)O)N)OC(=O)C=[N+]=[N-],Azaserine,1,cancer-other
+458,148-82-3,C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl,Melphalan,1,cancer-other
+459,68-89-3,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)[O-].[Na+],Dipyrone,1,cancer-liver
+460,13366-73-9,C12C3C(C4C1C5(C(C3(C4(C5(Cl)Cl)Cl)Cl)Cl)Cl)C6C2O6,"Dieldrin, photo-",0,negative
+461,75659-08-04,C[C@H](CCC1=CC=CC=C1)NC[C@@H](C2=CC(=C(C=C2)O)C(=O)N)O.Cl,"(R,R)-Dilevalol.HCl",0,negative
+462,127-47-9,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/COC(=O)C)/C)/C,Retinol acetate,0,negative
+463,50-44-2,C1=NC2=C(N1)C(=S)N=CN2,6-Mercaptopurine,0,negative
+464,331-39-5,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,Caffeic acid,1,cancer-other
+465,149-30-4,C1=CC=C2C(=C1)NC(=S)S2,2-Mercaptobenzothiazole,1,cancer-other
+466,1212-29-9,C1CCC(CC1)NC(=S)NC2CCCCC2,"N,N'-Dicyclohexylthiourea",0,negative
+467,60-56-0,CN1C=CNC1=S,Methimazole,1,cancer-other
+468,404-86-4,CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC,Capsaicin,1,cancer-other
+469,62-56-6,C(=S)(N)N,Thiourea,1,cancer-other
+470,62-55-5,CC(=S)N,Thioacetamide,1,cancer-liver
+471,135-20-6,C1=CC=C(C=C1)N(N=O)[O-].[NH4+],Cupferron,1,cancer-liver
+472,116355-83-0,CCCC[C@@H](C)[C@H]([C@H](C[C@@H](C)C[C@@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O)OC(=O)C[C@@H](CC(=O)O)C(=O)O,Fumonisin B1,1,cancer-liver
+473,536-33-4,CCC1=NC=CC(=C1)C(=S)N,Ethionamide,1,cancer-other
+474,2302-84-3,C(=O)NNC(=S)N,1-Formyl-3-thiosemicarbazide,0,negative
+475,80830-39-3,COC1=C(C=CC(=C1)N)N=NC2=CC=CC=C2,2-Methoxy-4-aminoazobenzene,0,negative
+476,64039-27-6,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2NC(=NC3=S)N)CO)O.O,beta-Thioguanine deoxyriboside,1,cancer-other
+477,3570-75-0,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NNC=O,Formic acid 2-[4-(5-nitro-2-furyl)-2-thiazolyl]hydrazide,1,cancer-liver
+478,99-57-0,C1=CC(=C(C=C1[N+](=O)[O-])N)O,2-Amino-4-nitrophenol,1,cancer-other
+479,26049-68-3,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NN,2-Hydrazino-4-(5-nitro-2-furyl)thiazole,1,cancer-other
+480,26049-70-7,C1=CC(=CC=C1C2=CSC(=N2)NN)[N+](=O)[O-],2-Hydrazino-4-(p-nitrophenyl) thiazole,1,cancer-other
+481,0141-05-09,CCOC(=O)/C=C\C(=O)OCC,Diethylmaleate,0,negative
+482,117-39-5,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,Quercetin,1,cancer-other
+483,10048-13-2,COC1=C2C(=C3[C@@H]4C=CO[C@@H]4OC3=C1)OC5=CC=CC(=C5C2=O)O,Sterigmatocystin,1,cancer-liver
+484,3688-53-7,C1=COC(=C1)/C(=C/C2=CC=C(O2)[N+](=O)[O-])/C(=O)N,AF-2,1,cancer-other
+485,50-14-6,C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C,Calciferol,1,cancer-other
+486,153-18-4,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,Rutin trihydrate,0,negative
+487,520-18-3,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,Kaempferol,0,negative
+488,51333-22-3,CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@@]5([C@H]4[C@H](C[C@@]3([C@@]2(O1)C(=O)CO)C)O)C,Budesonide,1,cancer-liver
+489,17924-92-4,C[C@H]1CCCC(=O)CCC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1,Zearalenone,1,cancer-liver
+490,303-34-4,C/C=C(/C)\C(=O)O[C@H]1CCN2[C@@H]1C(=CC2)COC(=O)[C@@]([C@H](C)OC)(C(C)(C)O)O,Lasiocarpine,1,cancer-liver
+491,60102-37-6,C[C@@H]1C[C@@]2([C@H](O2)C)C(=O)O[C@@H]3CCN(C/C=C(\C3=O)/COC(=O)[C@]1(C)O)C,Petasitenine,1,cancer-liver
+492,2318-18-5,C/C=C\1/C[C@H]([C@@](C(=O)OC/C/2=C/CN(CC[C@H](C2=O)OC1=O)C)(C)O)C,Senkirkine,1,cancer-liver
+493,22571-95-5,C/C=C(\C)/C(=O)O[C@@H]1CCN2[C@@H]1C(=CC2)COC(=O)[C@@]([C@H](C)O)(C(C)C)O,Symphytine,1,cancer-liver
+494,59122-46-2,CCCCC(C)(C/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1CCCCCCC(=O)OC)O)O,Misoprostol,0,negative
+495,28754-68-9,C1=C(OC(=C1)[N+](=O)[O-])/C=C/C2=NOC(=N2)N,"trans-5-Amino-3[2-(5-nitro-2-furyl)vinyl]-1,2,4-oxadiazole",1,cancer-other
+496,36711-31-6,C(C(CBr)Br)OP(=O)([O-])OCC(CBr)Br.C(C(CBr)Br)OP(=O)([O-])OCC(CBr)Br.[Mg+2],"Bis(2,3-dibromopropyl)phosphate,magnesium salt   ",1,cancer-liver
+497,87-29-6,C1=CC=C(C=C1)/C=C/COC(=O)C2=CC=CC=C2N,Cinnamyl anthranilate,1,cancer-liver
+498,59865-13-3,CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C,Cyclosporin A,0,negative
+499,2303-16-4,CC(C)N(C(C)C)C(=O)SC/C(=C/Cl)/Cl,Diallate,1,cancer-liver
+500,10318-26-0,C([C@H]([C@@H]([C@@H]([C@H](CBr)O)O)O)O)Br,Dibromodulcitol,1,cancer-other
+501,6119-92-2,CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C/C,Dinitro(1-methylheptyl)phenyl crotonate,0,negative
+502,3458-22-8,CS(=O)(=O)OCCCNCCCOS(=O)(=O)C.Cl,"3,3'-Iminobis-1-propanoldimethanesulfonate(ester).HCl",1,cancer-other
+503,100643-96-7,CC1(C2=C(C=CC(=C2)C3=NNC(=O)CC3)NC1=O)C,Indolidan,1,cancer-other
+504,112-63-0,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,"Methyl linoleate, native",0,negative
+505,21308-79-2,CCCCCCC(=O)/C=C/CCCCCCCCC(=O)OC,Methyl 12-oxo-trans-10-octadecenoate,0,negative
+506,23282-20-4,CC1=C[C@@H]2[C@]([C@@H](C1=O)O)([C@]3([C@@H]([C@H]([C@H]([C@@]34CO4)O2)O)O)C)CO,Nivalenol,0,negative
+507,63-92-3,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2.Cl,Phenoxybenzamine.HCl,1,cancer-other
+508,66-05-7,CC(CC1=CC=CC=C1)NN.Cl,beta-Phenylisopropylhydrazine.HCl,0,negative
+509,7681-93-8,C[C@@H]1C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@@H]3[C@H](O3)/C=C/C(=O)O1)O)O)O)C(=O)O)O[C@H]4[C@H]([C@H]([C@@H]([C@H](O4)C)O)N)O,Pimaricin,0,negative
+510,59-33-6,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2.C(=C\C(=O)O)\C(=O)O,Pyrilamine maleate,1,cancer-liver
+511,72629-69-7,C/C/1=C\CC/C(=C/C=C(\[C@H](C/C(=C/CC1)/C)O)/C(C)C)/C,Sarcophytol A,0,negative
+512,0961-11-5,COP(=O)(OC)O/C(=C\Cl)/C1=CC(=C(C=C1Cl)Cl)Cl,Tetrachlorvinphos,1,cancer-liver
+513,75104-43-7,CC1=C2C(=C(N=C1N)C)C3=CC=CC=C3N2.CC(=O)O,Trp-P-1 acetate,1,cancer-liver
+514,72254-58-1,CC1=C2C3=CC=CC=C3NC2=CC(=N1)N,Trp-P-2 acetate,1,cancer-liver
+515,5803-51-0,COC1=CC(=C(C=C1)OC)/C=C/C2=CC=C(C=C2)N,"2,5-Dimethoxy-4'-aminostilbene",1,cancer-liver
+516,59-87-0,C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N,5-Nitro-2-furaldehyde semicarbazone,1,cancer-other
+517,3/3/5036,C1CN(C(=O)N1CCO)/N=C/C2=CC=C(O2)[N+](=O)[O-],1-(2-Hydroxyethyl)-3-[(5-nitrofurfurylidene)amino]-2-imidazolidinone,1,cancer-other
+518,7336-20-1,C1=CC(=C(C=C1/C=C/C2=C(C=C(C=C2)N)S(=O)(=O)[O-])S(=O)(=O)[O-])N.[Na+].[Na+],"4,4'-Diamino-2,2'-stilbenedisulfonic acid, disodium salt",0,negative
+519,67-20-9,C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-],1-[(5-Nitrofurfurylidene)amino]hydantoin,1,cancer-other
+520,15879-93-3,C([C@H]([C@@H]1[C@@H]([C@@H]2[C@H](O1)O[C@@H](O2)C(Cl)(Cl)Cl)O)O)O,Anhydroglucochloral,0,negative
+521,1133-64-8,C1CCN([C@@H](C1)C2=CN=CC=C2)N=O,Nitrosoanabasine,1,cancer-other
+522,16568-02-08,C/C=N/N(C)C=O,Acetaldehyde methylformylhydrazone,1,cancer-other
+523,57590-22-4,CCCCC/C=N/N(C)C=O,Hexanal methylformylhydrazone,1,cancer-liver
+524,772-43-0,C1=C(OC(=C1)[N+](=O)[O-])/C(=N/O)/N,5-Nitro-2-furamidoxime,0,negative
+525,555-84-0,C1CN(C(=O)N1)/N=C/C2=CC=C(O2)[N+](=O)[O-],1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone,1,cancer-other
+526,13010-10-1,CCCCCN(/C(=N/[N+](=O)[O-])/N)N=O,N-Pentyl-N'-nitro-N-nitrosoguanidine,0,negative
+527,21638-36-8,CC1CN(C(=O)N1)/N=C/C2=CC=C(O2)[N+](=O)[O-],4-Methyl-1-[(5-nitrofurfurylidene)amino]-2-imidazolidinone,1,cancer-other
+528,55738-54-0,CN(C)/C=N/C1=NN=C(O1)/C=C/C2=CC=C(O2)[N+](=O)[O-],"trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)vinyl]-1,3,4-oxadiazole",1,cancer-other
+529,57590-20-2,CCCC/C=N/N(C)C=O,Pentanal methylformylhydrazone,1,cancer-liver
+530,3031-51-4,C1COCCN1CC2CN(C(=O)O2)/N=C/C3=CC=C(O3)[N+](=O)[O-].Cl,l-5-Morpholinomethyl-3-[(5-nitrofurfurylidene)amino]-2-oxazolidinone.HCl,1,cancer-other
+531,23135-22-0,CNC(=O)O/N=C(/C(=O)N(C)C)\SC,Oxamyl,0,negative
+532,7519-36-0,C1C[C@H](N(C1)N=O)C(=O)O,Nitrosoproline,0,negative
+533,309-00-2,C1[C@@H]2C=C[C@H]1[C@H]3[C@@H]2[C@]4(C(=C([C@@]3(C4(Cl)Cl)Cl)Cl)Cl)Cl,Aldrin,1,cancer-liver
+534,23746-34-1,C(CO)N(CCO)C(=S)[S-].[K+],"Bis-2-hydroxyethyldithiocarbamic acid,potassium",1,cancer-liver
+535,16170-75-5,COC1=CC=C(C=C1)C(=O)/C(=C/C(=O)[O-])/Br.[Na+],Cytembena,1,cancer-other
+536,0139-05-09,C1CCC(CC1)NS(=O)(=O)[O-].[Na+],"Cyclamate, sodium",1,cancer-liver
+537,143-19-1,CCCCCCCC/C=C\CCCCCCCC(=O)[O-].[Na+],"Oleate, sodium",0,negative
+538,57-30-7,CCC1(C(=O)NC(=NC1=O)[O-])C2=CC=CC=C2.[Na+],"Phenobarbital, sodium",1,cancer-liver
+539,132-98-9,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)[O-])C.[K+],Penicillin VK,0,negative
+540,0144-02-05,CCC1(C(=O)NC(=NC1=O)[O-])CC.[Na+],"Barbital, sodium",1,cancer-other
+541,6381-77-7,C([C@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O.[Na+],"Erythorbate, sodium",0,negative
+542,2922-54-5,C(CC(=O)[O-])C(=O)O.[Na+],Monosodium succinate,0,negative
+543,24382-04-05,[CH-](C=O)C=O.[Na+],"Malonaldehyde, sodium salt",1,cancer-liver
+544,518-75-2,C[C@@H]1[C@H](OC=C2C1=C(C(=C(C2=O)C(=O)O)O)C)C,Citrinin,1,cancer-other
+545,12663-46-6,CC[C@H]1C(=O)N[C@H](C(=O)N[C@H](CC(=O)N[C@H](C(=O)N2C[C@H]([C@H]([C@H]2C(=O)N1)Cl)Cl)CO)C3=CC=CC=C3)CO,Cyclochlorotine,1,cancer-liver
+546,65176-75-2,COC1=C(C2=C(C(=C1)O)C(=O)C3=C(C=C4C(=C3O2)[C@@H]5C=CO[C@@H]5O4)OC)OC,"5,6-Dimethoxysterigmatocystin",1,cancer-liver
+547,71277-79-7,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[Na+].[Na+],"Glycyrrhizinate, disodium",0,negative
+548,578-76-7,CN1C=NC2=C1C(=O)NC(=N2)N,7-Methylguanine,0,negative
+549,13292-46-1,C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C,Rifampicin,1,cancer-liver
+550,3/4/4342,CN(C)/N=N/C1=C(NC=N1)C(=O)N,Dacarbazine,1,cancer-other
+551,149-17-7,COC1=C(C=CC(=C1)/C=N/NC(=O)C2=CC=NC=C2)O,Isonicotinic acid vanillylidenehydrazide,1,cancer-other
+552,13010-07-06,CCCN(C(=N)N[N+](=O)[O-])N=O,N-Propyl-N'-nitro-N-nitrosoguanidine,1,cancer-other
+553,13010-08-07,CCCCN(C(=N)N[N+](=O)[O-])N=O,N-Butyl-N'-nitro-N-nitrosoguanidine,0,negative
+554,100-51-6,C1=CC=C(C=C1)CO,Benzyl alcohol,0,negative
+555,149-91-7,C1=C(C=C(C(=C1O)O)O)C(=O)O,Gallic acid,0,negative
+556,59-67-6,C1=CC(=CN=C1)C(=O)O,Nicotinic acid,0,negative
+557,66-22-8,C1=CNC(=O)NC1=O,Uracil,1,cancer-other
+558,94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,"2,4-Dichlorophenoxyacetic acid",0,negative
+559,61-82-5,C1=NNC(=N1)N,3-Aminotriazole,1,cancer-liver
+560,103-90-2,CC(=O)NC1=CC=C(C=C1)O,Acetaminophen,1,cancer-liver
+561,302-17-0,C(C(Cl)(Cl)Cl)(O)O,Chloral hydrate,1,cancer-liver
+562,938-73-8,CCOC1=CC=CC=C1C(=O)N,o-Ethoxybenzamide,1,cancer-liver
+563,60142-96-3,C1CCC(CC1)(CC(=O)O)CN,1-(Aminomethyl)cyclohexaneacetic acid,0,negative
+564,66-27-3,COS(=O)(=O)C,Methyl methanesulfonate,1,cancer-other
+565,106-46-7,C1=CC(=CC=C1Cl)Cl,"1,4-Dichlorobenzene",1,cancer-liver
+566,137-26-8,CN(C)C(=S)SSC(=S)N(C)C,Tetramethylthiuram disulfide,0,negative
+567,75-25-2,C(Br)(Br)Br,Tribromomethane,1,cancer-other
+568,57-06-7,C=CCN=C=S,Allyl isothiocyanate,1,cancer-other
+569,61-94-9,CN1CCC=C(C1)C(=O)OC.Cl,Arecoline.HCl,1,cancer-liver
+570,69-65-8,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,d-Mannitol,0,negative
+571,75-47-8,C(I)(I)I,Iodoform,0,negative
+572,75-56-9,CC1CO1,"1,2-Propylene oxide",1,cancer-other
+573,75-71-8,C(F)(F)(Cl)Cl,Dichlorodifluoromethane,0,negative
+574,75-88-7,C(C(F)(F)F)Cl,"2-Chloro-1,1,1-trifluoroethane",1,cancer-other
+575,79-01-6,C(=C(Cl)Cl)Cl,Trichloroethylene,1,cancer-liver
+576,80-33-1,C1=CC(=CC=C1OS(=O)(=O)C2=CC=C(C=C2)Cl)Cl,p-Chlorophenyl-p-chlorobenzene sulfonate,0,negative
+577,85-44-9,C1=CC=C2C(=C1)C(=O)OC2=O,Phthalic anhydride,0,negative
+578,86-86-2,C1=CC=C2C(=C1)C=CC=C2CC(=O)N,1-Naphthalene acetamide,0,negative
+579,90-43-7,C1=CC=C(C=C1)C2=CC=CC=C2O,o-Phenylphenol,1,cancer-other
+580,91-23-6,COC1=CC=CC=C1[N+](=O)[O-],o-Nitroanisole,1,cancer-liver
+581,91-79-2,CN(C)CCN(CC1=CSC=C1)C2=CC=CC=N2,Thenyldiamine,0,negative
+582,93-72-1,CC(C(=O)O)OC1=CC(=C(C=C1Cl)Cl)Cl,"2-(2,4,5-Trichlorophenoxy)propionic acid",0,negative
+583,95-50-1,C1=CC=C(C(=C1)Cl)Cl,"1,2-Dichlorobenzene",0,negative
+584,95-80-7,CC1=C(C=C(C=C1)N)N,"2,4-Diaminotoluene",1,cancer-liver
+585,96-12-8,C(C(CBr)Br)Cl,"1,2-Dibromo-3-chloropropane",1,cancer-other
+586,98-85-1,CC(C1=CC=CC=C1)O,alpha-Methylbenzyl alcohol,1,cancer-other
+587,102-71-6,C(CO)N(CCO)CCO,Triethanolamine,1,cancer-other
+588,103-16-2,C1=CC=C(C=C1)COC2=CC=C(C=C2)O,Hydroquinone monobenzyl ether,0,negative
+589,0105-11-3,C1=CC(=CC=C1NO)N=O,p-Quinone dioxime,1,cancer-other
+590,106-89-8,C1C(O1)CCl,Epichlorohydrin,1,cancer-other
+591,106-93-4,C(CBr)Br,"1,2-Dibromoethane",1,cancer-liver
+592,110-00-9,C1=COC=C1,Furan,1,cancer-liver
+593,111-46-6,C(COCCO)O,Diethylene glycol,1,cancer-other
+594,121-66-4,C1=C(SC(=N1)N)[N+](=O)[O-],2-Amino-5-nitrothiazole,1,cancer-other
+595,137-17-7,CC1=CC(=C(C=C1C)N)C,"2,4,5-Trimethylaniline",1,cancer-liver
+596,139-65-1,C1=CC(=CC=C1N)SC2=CC=C(C=C2)N,"4,4'-Thiodianiline",1,cancer-liver
+597,140-67-0,COC1=CC=C(C=C1)CC=C,Estragole,1,cancer-liver
+598,140-79-4,C1CN(CCN1N=O)N=O,Dinitrosopiperazine,1,cancer-other
+599,0142-04-01,C1=CC=C(C=C1)N.Cl,Aniline.HCl,1,cancer-other
+600,150-76-5,COC1=CC=C(C=C1)O,4-Methoxyphenol,0,negative
+601,151-56-4,C1CN1,Ethylene imine,1,cancer-liver
+602,126-85-2,C[N+](CCCl)(CCCl)[O-],Nitrogen mustard N-oxide,1,cancer-other
+603,512-56-1,COP(=O)(OC)OC,Trimethylphosphate,1,cancer-other
+604,553-53-7,C1=CC(=CN=C1)C(=O)NN,Nicotinic acid hydrazide,1,cancer-other
+605,556-52-5,C1C(O1)CO,Glycidol,1,cancer-liver
+606,597-25-1,COP(=O)(N1CCOCC1)OC,Dimethyl morpholinophosphoramidate,0,negative
+607,598-55-0,COC(=O)N,Methyl carbamate,1,cancer-liver
+608,609-20-1,C1=C(C=C(C(=C1Cl)N)Cl)N,"2,6-Dichloro-p-phenylenediamine",1,cancer-liver
+609,611-23-4,CC1=CC=CC=C1N=O,o-Nitrosotoluene,1,cancer-liver
+610,611-32-5,CC1=C2C(=CC=C1)C=CC=N2,8-Methylquinoline,0,negative
+611,614-00-6,CN(C1=CC=CC=C1)N=O,Nitrosomethylaniline,1,cancer-other
+612,614-95-9,CCN(C(=O)OCC)N=O,Nitrosoethylurethane,1,cancer-other
+613,621-64-7,CCCN(CCC)N=O,N-Nitrosodipropylamine,1,cancer-liver
+614,622-51-5,CC1=CC=C(C=C1)NC(=O)N,p-Tolylurea,1,cancer-other
+615,624-84-0,C(=O)NN,Formylhydrazine,1,cancer-other
+616,628-94-4,C(CCC(=O)N)CC(=O)N,Adipamide,0,negative
+617,630-20-6,C(C(Cl)(Cl)Cl)Cl,"1,1,1,2-Tetrachloroethane",1,cancer-liver
+618,634-93-5,C1=C(C=C(C(=C1Cl)N)Cl)Cl,"2,4,6-Trichloroaniline",1,cancer-liver
+619,636-21-5,CC1=CC=CC=C1N.Cl,o-Toluidine.HCl,1,cancer-liver
+620,685-91-6,CCN(CC)C(=O)C,Diethylacetamide,1,cancer-other
+621,872-50-4,CN1CCCC1=O,N-Methyl-2-pyrrolidone,0,negative
+622,930-55-2,C1CCN(C1)N=O,N-Nitrosopyrrolidine,1,cancer-liver
+623,937-25-7,CN(C1=CC=C(C=C1)F)N=O,N-Nitroso-N-methyl-4-fluoroaniline,1,cancer-other
+624,943-41-9,CN(C1=CC=C(C=C1)[N+](=O)[O-])N=O,N-Nitroso-N-methyl-4-nitroaniline,0,negative
+625,999-81-5,C[N+](C)(C)CCCl.[Cl-],(2-Chloroethyl)trimethylammonium chloride,0,negative
+626,1116-54-7,C(CO)N(CCO)N=O,N-Nitrosodiethanolamine,1,cancer-liver
+627,9/2/2164,CC(=C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,"3,4'-Dichloro-2-methylacrylanilide",0,negative
+628,2835-39-4,CC(C)CC(=O)OCC=C,Allyl isovalerate,1,cancer-other
+629,3068-88-0,CC1CC(=O)O1,beta-Butyrolactone,1,cancer-other
+630,3296-90-0,C(C(CO)(CBr)CBr)O,"2,2-Bis(bromomethyl)-1,3-propanediol, technical grade",0,negative
+631,4164-28-7,CN(C)[N+](=O)[O-],Dimethylnitramine,1,cancer-liver
+632,3/5/4363,C1=CC=C(C=C1)C2=CC(=C(C=C2)N)O,3-Hydroxy-4-aminobiphenyl,0,negative
+633,4515-18-8,C1CCN(C(C1)C(=O)O)N=O,Nitrosopipecolic acid,0,negative
+634,5632-47-3,C1CN(CCN1)N=O,N-Nitrosopiperazine,1,cancer-other
+635,123-33-1,C1=CC(=O)NNC1=O,Maleic hydrazide,0,negative
+636,13552-44-8,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N.Cl.Cl,"4,4'-Methylenedianiline.2HCl",1,cancer-liver
+637,15481-70-6,CC1=C(C=CC=C1N)N.Cl.Cl,"2,6-Diaminotoluene.2HCl",0,negative
+638,16120-70-0,CCCCN(C=O)N,N-n-Butyl-N-formylhydrazine,1,cancer-other
+639,16338-97-9,C=CCN(CC=C)N=O,Diallylnitrosamine,1,cancer-other
+640,124-64-1,C(O)[P+](CO)(CO)CO.[Cl-],Tetrakis(hydroxymethyl)phosphonium chloride,0,negative
+641,26541-51-5,C1CSCCN1N=O,N-Nitrosothiomorpholine,1,cancer-other
+642,26921-68-6,CN(CCO)N=O,N-Nitrosomethyl-(2-hydroxyethyl) amine,1,cancer-liver
+643,33868-17-6,CN(C#N)N=O,Methylnitrosocyanamide,1,cancer-other
+644,39156-41-7,COC1=C(C=C(C=C1)N)N.OS(=O)(=O)O,"2,4-Diaminoanisole sulfate",1,cancer-other
+645,53609-64-6,CC(CN(CC(C)O)N=O)O,N-Nitrosobis(2-hydroxypropyl)amine,1,cancer-other
+646,60391-92-6,C(C(=O)O)N(C(=O)N)N=O,Carboxymethylnitrosourea,1,cancer-other
+647,60599-38-4,CC(=O)CN(CC(=O)C)N=O,N-Nitrosobis(2-oxopropyl)amine,1,cancer-liver
+648,59-88-1,C1=CC=C(C=C1)NN.Cl,Phenylhydrazine.HCl,1,cancer-other
+649,0103-03-07,C1=CC=C(C=C1)NNC(=O)N,1-Carbamyl-2-phenylhydrazine,1,cancer-other
+650,30310-80-6,C1[C@H](CN([C@@H]1C(=O)O)N=O)O,Nitrosohydroxyproline,0,negative
+651,443-72-1,CNC1=NC=NC2=C1NC=N2,(N-6)-Methyladenine,0,negative
+652,3148-73-0,CC(=O)NNC(=O)C,Diacetyl hydrazine,0,negative
+653,3276-41-3,C1C=CCON1N=O,"3,6-Dihydro-2-nitroso-2H-1,2-oxazine",1,cancer-other
+654,2629-59-6,CCSC[C@@H](C(=O)O)N,S-Ethyl-l-cysteine,0,negative
+655,760-56-5,C=CCN(C(=O)N)N=O,1-Allyl-1-nitrosourea,1,cancer-other
+656,6965-71-5,CC(C(=O)O)OC1=C(C=CC(=C1)Cl)Cl,"alpha-(2,5-Dichlorophenoxy)propionic acid",0,negative
+657,1701-77-5,COC(C1=CC=CC=C1)C(=O)O,Methoxyphenylacetic acid,0,negative
+658,75411-83-5,CC(CN(C)N=O)O,N-Nitrosomethyl-2-hydroxypropylamine,1,cancer-other
+659,520-45-6,CC1=CC(=O)C(C(=O)O1)C(=O)C,"3-Acetyl-6-methyl-2,4-pyrandione",0,negative
+660,91308-70-2,CC(CN(CC=C)N=O)O,N-Nitrosoallyl-2-hydroxypropylamine,1,cancer-liver
+661,69658-91-9,CN(C1=CN=CC=C1)N=O,3-Nitrosomethylaminopyridine,0,negative
+662,70415-59-7,CN(CCCO)N=O,N-Nitrosomethyl-(3-hydroxypropyl) amine,1,cancer-liver
+663,69112-98-7,C(CF)N(C(=O)N)N=O,2-Fluoroethyl-nitrosourea,1,cancer-other
+664,20570-96-1,C1=CC=C(C=C1)CNN.Cl.Cl,Benzylhydrazine.2HCl,1,cancer-other
+665,89911-79-5,CC(CN(CC(CO)O)N=O)O,"N-Nitroso-2,3-dihydroxypropyl-2-hydroxypropylamine",1,cancer-other
+666,56393-22-7,CC(CN(C)C1=NN=C(C=C1)NN)O.Cl.Cl,Pildralazine,0,negative
+667,78776-28-0,CCCCNNCCCC.Cl.Cl,"1,2-di-n-Butylhydrazine.2HCl",1,cancer-other
+668,30418-53-2,C=CC(=O)C1=CC2=C(C=C1)OCO2,1'-Oxosafrole,0,negative
+669,16301-26-1,CCN=[N+](CC)[O-],"Z-Ethyl-O,N,N-azoxyethane",1,cancer-liver
+670,110-57-6,C(/C=C/CCl)Cl,"trans-1,4-Dichlorobutene-2",1,cancer-other
+671,51-52-5,CCCC1=CC(=O)NC(=S)N1,Propylthiouracil,1,cancer-other
+672,86-88-4,C1=CC=C2C(=C1)C=CC=C2NC(=S)N,1-(1-Naphthyl)-2-thiourea,0,negative
+673,141-90-2,C1=CNC(=S)NC1=O,Thiouracil,1,cancer-liver
+674,96-45-7,C1CNC(=S)N1,Ethylene thiourea,1,cancer-liver
+675,87-56-9,C(=O)/C(=C(\C(=O)O)/Cl)/Cl,"alpha,beta-Dichloro-beta-formylacrylic acid",0,negative
+676,2489-77-2,CNC(=S)N(C)C,Trimethylthiourea,1,cancer-other
+677,142-59-6,C(CNC(=S)[S-])NC(=S)[S-].[Na+].[Na+],"Ethylenebisdithiocarbamate, disodium",0,negative
+678,56222-35-6,C1CN(CC1O)N=O,N-Nitroso-3-hydroxypyrrolidine,1,cancer-other
+679,56894-92-9,C(CCCOCCl)CCOCCl,"Bis-1,6-(chloromethoxy)hexane",0,negative
+680,119-34-6,C1=CC(=C(C=C1N)[N+](=O)[O-])O,4-Amino-2-nitrophenol,1,cancer-other
+681,92177-49-6,CC(=O)CN(CCO)N=O,Nitroso-2-oxopropylethanolamine,1,cancer-liver
+682,5307-14-2,C1=CC(=C(C=C1N)[N+](=O)[O-])N,2-Nitro-p-phenylenediamine,1,cancer-liver
+683,15973-99-6,C1CN(CN(C1)N=O)N=O,di(N-Nitroso)-perhydropyrimidine,1,cancer-other
+684,2185-92-4,C1=CC=C(C=C1)C2=CC=CC=C2N.Cl,2-Biphenylamine.HCl,1,cancer-other
+685,14026-03-0,C[C@@H]1CCCCN1N=O,R(-)-2-Methyl-N-nitrosopiperidine,1,cancer-other
+686,1119-68-2,CCCCCNN.Cl,n-Pentylhydrazine.HCl,1,cancer-other
+687,61-76-7,CNC[C@@H](C1=CC(=CC=C1)O)O.Cl,Phenylephrine.HCl,0,negative
+688,56795-66-5,CCCNN.Cl,Propylhydrazine.HCl,1,cancer-other
+689,134-72-5,C[C@@H]([C@@H](C1=CC=CC=C1)O)NC.C[C@@H]([C@@H](C1=CC=CC=C1)O)NC.OS(=O)(=O)O,Ephedrine sulphate,0,negative
+690,2411-74-7,C1=COC(=C1)/C=N/NC(=O)N,2-Furaldehyde semicarbazone,0,negative
+691,32607-00-4,C(C(=O)O)NCC(=O)[O-].[Na+],"Iminodiacetic acid, monosodium",0,negative
+692,97-00-7,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,"1-Chloro-2,4-dinitrobenzene",0,negative
+693,0107-06-02,C(CCl)Cl,"1,2-Dichloroethane",1,cancer-other
+694,107-20-0,C(C=O)Cl,Chloroacetaldehyde,1,cancer-liver
+695,107-21-1,C(CO)O,Ethylene glycol,0,negative
+696,75-07-0,CC=O,Acetaldehyde,1,cancer-other
+697,60-35-5,CC(=O)N,Acetamide,1,cancer-liver
+698,100-52-7,C1=CC=C(C=C1)C=O,Benzaldehyde,0,negative
+699,79-11-8,C(C(=O)O)Cl,Monochloroacetic acid,0,negative
+700,79-46-9,CC(C)[N+](=O)[O-],2-Nitropropane,0,negative
+701,64-17-5,CCO,Ethyl alcohol,1,cancer-liver
+702,123-31-9,C1=CC(=CC=C1O)O,Hydroquinone,1,cancer-liver
+703,98-92-0,C1=CC(=CN=C1)C(=O)N,Nicotinamide,0,negative
+704,108-95-2,C1=CC=C(C=C1)O,Phenol,0,negative
+705,57-55-6,CC(CO)O,Propylene glycol,0,negative
+706,98-96-4,C1=CN=C(C=N1)C(=O)N,Pyrazinamide,0,negative
+707,108-88-3,CC1=CC=CC=C1,Toluene,1,cancer-other
+708,57-13-6,C(=O)(N)N,Urea,0,negative
+709,93-76-5,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O,"2,4,5-Trichlorophenoxyacetic acid",0,negative
+710,57-57-8,C1COC1=O,beta-Propiolactone,1,cancer-other
+711,330-54-1,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,"3-(3,4-Dichlorophenyl)-1,1-dimethylurea",0,negative
+712,51-21-8,C1=C(C(=O)NC(=O)N1)F,5-Fluorouracil,1,cancer-other
+713,144-48-9,C(C(=O)N)I,Iodoacetamide,0,negative
+714,26675-46-7,C(C(F)(F)F)(OC(F)F)Cl,Isoflurane,0,negative
+715,54-85-3,C1=CN=CC=C1C(=O)NN,Isoniazid,1,cancer-liver
+716,108-46-3,C1=CC(=CC(=C1)O)O,Resorcinol,0,negative
+717,51-79-6,CCOC(=O)N,Urethane,1,cancer-liver
+718,55-18-5,CCN(CC)N=O,N-Nitrosodiethylamine,1,cancer-liver
+719,55-22-1,C1=CN=CC=C1C(=O)O,Isonicotinic acid,0,negative
+720,59-89-2,C1COCCN1N=O,N-Nitrosomorpholine,1,cancer-liver
+721,60-34-4,CNN,Methylhydrazine,1,cancer-liver
+722,62-75-9,CN(C)N=O,N-Nitrosodimethylamine,1,cancer-liver
+723,67-48-1,C[N+](C)(C)CCO.[Cl-],Choline chloride,0,negative
+724,67-66-3,C(Cl)(Cl)Cl,Chloroform,1,cancer-liver
+725,74-96-4,CCBr,Bromoethane,1,cancer-other
+726,75-00-3,CCCl,Chloroethane,1,cancer-other
+727,75-01-4,C=CCl,Vinyl chloride,1,cancer-liver
+728,75-09-2,C(Cl)Cl,Methylene chloride,1,cancer-liver
+729,75-21-8,C1CO1,Ethylene oxide,1,cancer-other
+730,75-27-4,C(Cl)(Cl)Br,Bromodichloromethane,1,cancer-liver
+731,75-34-3,CC(Cl)Cl,"1,1-Dichloroethane",1,cancer-other
+732,75-35-4,C=C(Cl)Cl,Vinylidene chloride,1,cancer-liver
+733,75-45-6,C(F)(F)Cl,Chlorodifluoromethane,0,negative
+734,75-69-4,C(F)(Cl)(Cl)Cl,Trichlorofluoromethane,0,negative
+735,79-00-5,C(C(Cl)Cl)Cl,"1,1,2-Trichloroethane",1,cancer-liver
+736,79-06-1,C=CC(=O)N,Acrylamide,1,cancer-other
+737,79-34-5,C(C(Cl)Cl)(Cl)Cl,"1,1,2,2-Tetrachloroethane",1,cancer-liver
+738,79-43-6,C(C(=O)O)(Cl)Cl,Dichloroacetic acid,1,cancer-liver
+739,79-44-7,CN(C)C(=O)Cl,Dimethylcarbamyl chloride,1,cancer-other
+740,11/8/6334,CC1=CC(=C(C(=C1)C)N)C,"2,4,6-Trimethylaniline.HCl",1,cancer-liver
+741,88-06-2,C1=C(C=C(C(=C1Cl)O)Cl)Cl,"2,4,6-Trichlorophenol",1,cancer-liver
+742,91-62-3,CC1=CC2=C(C=C1)N=CC=C2,6-Methylquinoline,0,negative
+743,95-74-9,CC1=C(C=C(C=C1)N)Cl,3-Chloro-p-toluidine,0,negative
+744,95-83-0,C1=CC(=C(C=C1Cl)N)N,4-Chloro-o-phenylenediamine,1,cancer-liver
+745,96-18-4,C(C(CCl)Cl)Cl,"1,2,3-Trichloropropane",1,cancer-liver
+746,96-24-2,C(C(CCl)O)O,Glycerol alpha-monochlorohydrin,0,negative
+747,100-00-5,C1=CC(=CC=C1[N+](=O)[O-])Cl,1-Chloro-4-nitrobenzene,1,cancer-liver
+748,100-41-4,CCC1=CC=CC=C1,Ethylbenzene,1,cancer-other
+749,100-42-5,C=CC1=CC=CC=C1,Styrene,1,cancer-other
+750,100-44-7,C1=CC=C(C=C1)CCl,Benzyl chloride,1,cancer-other
+751,100-75-4,C1CCN(CC1)N=O,N-Nitrosopiperidine,1,cancer-liver
+752,101-14-4,C1=CC(=C(C=C1CC2=CC(=C(C=C2)N)Cl)Cl)N,"4,4'-Methylene-bis(2-chloroaniline)",1,cancer-liver
+753,102-50-1,CC1=C(C=CC(=C1)OC)N,m-Cresidine,1,cancer-other
+754,105-60-2,C1CCC(=O)NCC1,Caprolactam,0,negative
+755,106-50-3,C1=CC(=CC=C1N)N,p-Phenylenediamine,0,negative
+756,106-88-7,CCC1CO1,"1,2-Epoxybutane",1,cancer-other
+757,106-99-0,C=CC=C,"1,3-Butadiene",1,cancer-liver
+758,0107-05-01,C=CCCl,Allyl chloride,1,cancer-other
+759,107-13-1,C=CC#N,Acrylonitrile,1,cancer-other
+760,107-30-2,COCCl,Chloromethyl methyl ether,1,cancer-other
+761,108-01-0,CN(C)CCO,2-Dimethylaminoethanol,0,negative
+762,0108-03-02,CCC[N+](=O)[O-],1-Nitropropane,0,negative
+763,0108-05-04,CC(=O)OC=C,Vinyl acetate,1,cancer-liver
+764,108-45-2,C1=CC(=CC(=C1)N)N,m-Phenylenediamine,0,negative
+765,108-90-7,C1=CC=C(C=C1)Cl,Chlorobenzene,0,negative
+766,109-69-3,CCCCCl,n-Butyl chloride,0,negative
+767,109-84-2,C(CO)NN,2-Hydroxyethylhydrazine,1,cancer-liver
+768,110-97-4,CC(CNCC(C)O)O,Bis(2-hydroxypropyl)amine,0,negative
+769,111-44-4,C(CCl)OCCCl,Bis-2-chloroethylether,1,cancer-liver
+770,0115-07-01,CC=C,Propylene,0,negative
+771,120-36-5,CC(C(=O)O)OC1=C(C=C(C=C1)Cl)Cl,"alpha-(2,4-Dichlorophenoxy)propionic acid",0,negative
+772,120-83-2,C1=CC(=C(C=C1Cl)Cl)O,"2,4-Dichlorophenol",0,negative
+773,120-93-4,C1CNC(=O)N1,Ethylene urea,0,negative
+774,134-29-2,COC1=CC=CC=C1N.Cl,o-Anisidine.HCl,1,cancer-other
+775,0137-09-07,C1=CC(=C(C=C1N)N)O.Cl.Cl,"2,4-Diaminophenol.2HCl",0,negative
+776,140-88-5,CCOC(=O)C=C,Ethyl acrylate,1,cancer-other
+777,306-37-6,CNNC.Cl.Cl,"1,2-Dimethylhydrazine.2HCl",1,cancer-other
+778,513-37-1,CC(=CCl)C,Dimethylvinyl chloride,1,cancer-other
+779,540-23-8,CC1=CC=C(C=C1)N.Cl,p-Toluidine.HCl,1,cancer-liver
+780,540-51-2,C(CBr)O,Bromoethanol,1,cancer-other
+781,542-88-1,C(OCCl)Cl,Bis-(chloromethyl)ether,1,cancer-other
+782,563-41-7,C(=O)(N)NN.Cl,Carbamyl hydrazine.HCl,1,cancer-other
+783,592-31-4,CCCCNC(=O)N,N-Butylurea,0,negative
+784,593-60-2,C=CBr,Vinyl bromide,1,cancer-liver
+785,593-70-4,C(F)Cl,Chlorofluoromethane,1,cancer-other
+786,613-94-5,C1=CC=C(C=C1)C(=O)NN,Benzoyl hydrazine,1,cancer-other
+787,615-28-1,C1=CC=C(C(=C1)N)N.Cl.Cl,o-Phenylenediamine.2HCl,1,cancer-liver
+788,619-17-0,C1=CC(=C(C=C1[N+](=O)[O-])N)C(=O)O,4-Nitroanthranilic acid,0,negative
+789,622-97-9,CC1=CC=C(C=C1)C=C,p-Methylstyrene,0,negative
+790,0628-02-04,CCCCCC(=O)N,Hexanamide,1,cancer-other
+791,758-17-8,CN(C=O)N,N-Methyl-N-formylhydrazine,1,cancer-liver
+792,765-34-4,C1C(O1)C=O,Glycidaldehyde,0,negative
+793,816-57-9,CCCN(C(=O)N)N=O,N-Propyl-N-nitrosourea,1,cancer-other
+794,0869-01-02,CCCCN(C(=O)N)N=O,N-n-Butyl-N-nitrosourea,1,cancer-other
+795,924-42-5,C=CC(=O)NCO,N-Methylolacrylamide,1,cancer-liver
+796,1068-57-1,CC(=O)NN,Monoacetyl hydrazine,1,cancer-other
+797,1453-82-3,C1=CN=CC=C1C(=O)N,Isonicotinamide,0,negative
+798,3165-93-3,CC1=C(C=CC(=C1)Cl)N.Cl,4-Chloro-o-toluidine.HCl,1,cancer-other
+799,4106-66-5,C1=CC=C2C(=C1)C3=C(O2)C=C(C=C3)N,3-Dibenzofuranamine,1,cancer-other
+800,2/3/4247,CC(C)COC(=O)C1=CC=C(C=C1)O,Isobutyl p-hydroxybenzoate,0,negative
+801,5131-60-2,C1=CC(=C(C=C1N)N)Cl,4-Chloro-m-phenylenediamine,1,cancer-liver
+802,11/4/5164,C=CCN(CC=C)N,"1,1-Diallylhydrazine",1,cancer-other
+803,6369-59-1,CC1=C(C=CC(=C1)N)N.OS(=O)(=O)O,"2,5-Diaminotoluene sulfate",0,negative
+804,6959-47-3,C1=CC=NC(=C1)CCl.Cl,2-(Chloromethyl)pyridine.HCl,0,negative
+805,6959-48-4,C1=CC(=CN=C1)CCl.Cl,3-(Chloromethyl)pyridine.HCl,1,cancer-other
+806,7572-29-4,C(#CCl)Cl,Dichloroacetylene,1,cancer-liver
+807,542-75-6,C(/C=C/Cl)Cl,Telone II,1,cancer-liver
+808,10595-95-6,CCN(C)N=O,Nitrosoethylmethylamine,1,cancer-liver
+809,13073-35-3,CCSCC[C@@H](C(=O)O)N,Ethionine,1,cancer-liver
+810,15805-73-9,C=COC(=O)N,Vinyl carbamate,1,cancer-liver
+811,18413-14-4,CCNN.Cl,Ethylhydrazine.HCl,1,cancer-other
+812,123-91-1,C1COCCO1,"1,4-Dioxane",1,cancer-liver
+813,127-18-4,C(=C(Cl)Cl)(Cl)Cl,Tetrachloroethylene,1,cancer-liver
+814,25843-45-2,CN=[N+](C)[O-],Azoxymethane,1,cancer-liver
+815,55556-92-8,C1CN(CC=C1)N=O,"Nitroso-1,2,3,6-tetrahydropyridine",1,cancer-liver
+816,74920-78-8,CCN(C=O)N,N-Ethyl-N-formylhydrazine,1,cancer-liver
+817,77337-54-3,CCCN(C=O)N,N-N'-Propyl-N-formylhydrazine,1,cancer-liver
+818,127-06-0,CC(=NO)C,Acetoxime,1,cancer-liver
+819,636-79-3,C1=CC(=CN=C1)C(=O)O.Cl,Nicotine.HCl,0,negative
+820,6294-89-9,COC(=O)NN,Methyl carbazate,0,negative
+821,21436-96-4,CC1=CC(=C(C=C1)N)C.Cl,"2,4-Xylidine.HCl",1,cancer-other
+822,38434-77-4,CCN(C#N)N=O,Ethylnitrosocyanamide,1,cancer-other
+823,56795-65-4,CCCCNN.Cl,n-Butylhydrazine.HCl,1,cancer-other
+824,40548-68-3,C1CCON(C1)N=O,"Tetrahydro-2-nitroso-2H-1,2-oxazine",1,cancer-other
+825,51786-53-9,CC1=CC(=C(C=C1)C)N.Cl,"2,5-Xylidine.HCl",1,cancer-liver
+826,55984-51-5,CC(=O)CN(C)N=O,N-Nitrosomethyl(2-oxopropyl)amine,1,cancer-liver
+827,17157-48-1,C(C=O)Br,Bromoacetaldehyde,0,negative
+828,67587-52-4,C1COC(CN1N=O)O,N-Nitroso-2-hydroxymorpholine,0,negative
+829,612-82-8,CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N.Cl.Cl,"3,3'-Dimethylbenzidine.2HCl",1,cancer-liver
+830,17697-55-1,CCCN=[N+](CCC)[O-],1-Azoxypropane,1,cancer-other
+831,91308-71-3,CC(=O)CN(CC=C)N=O,N-Nitrosoallyl-2-oxopropylamine,1,cancer-liver
+832,96806-34-7,C(CCl)NC(=O)N(CCO)N=O,1-Nitroso-1-hydroxyethyl-3-chloroethylurea,1,cancer-liver
+833,62641-67-2,CC1CN(C(=O)NC1=O)N=O,"1-Nitroso-5,6-dihydrothymine",0,negative
+834,86451-37-8,CN(CC(CO)O)N=O,"N-Nitrosomethyl-2,3-dihydroxypropylamine",1,cancer-liver
+835,114282-83-6,C1N(CSCS1)N=O,N-Nitrosodithiazine,0,negative
+836,683-50-1,CC(C=O)Cl,2-Chloropropanal,1,cancer-other
+837,16219-98-0,CN(C1=CC=CC=N1)N=O,2-Nitrosomethylaminopyridine,1,cancer-other
+838,16219-99-1,CN(C1=CC=NC=C1)N=O,4-Nitrosomethylaminopyridine,0,negative
+839,57497-34-4,CCN=[N+](C)[O-],"Z-Methyl-O,N,N-azoxyethane",1,cancer-liver
+840,57497-29-7,CC[N+](=NC)[O-],"Z-Ethyl-O,N,N-azoxymethane",1,cancer-liver
+841,26072-78-6,C=CCNNCC=C.Cl.Cl,"1,2-Diallylhydrazine.2HCl",1,cancer-other
+842,52207-83-7,C=CCNN.Cl,Allylhydrazine.HCl,1,cancer-other
+843,598-57-2,CN[N+](=O)[O-],Methylnitramine,1,cancer-other
+844,123-73-9,C/C=C/C=O,Crotonaldehyde,1,cancer-liver
+845,540-72-7,C(#N)[S-].[Na+],"Thiocyanate, sodium",0,negative
+846,144-55-8,C(=O)(O)[O-].[Na+],Sodium bicarbonate,0,negative
+847,532-32-1,C1=CC=C(C=C1)C(=O)[O-].[Na+],"Benzoate, sodium",0,negative
+848,0638-03-09,CC1=CC(=CC=C1)N.Cl,m-Toluidine.HCl,1,cancer-liver
+849,104-46-1,C/C=C/C1=CC=C(C=C1)OC,Anethole,0,negative
+850,110-44-1,C/C=C/C=C/C(=O)O,Sorbic acid,0,negative
+851,4998-76-9,C1CCC(CC1)N.Cl,Cyclohexylamine.HCl,0,negative
+852,79-19-6,C(=S)(N)NN,Thiosemicarbazide,0,negative
+853,20265-97-8,COC1=CC=C(C=C1)N.Cl,p-Anisidine.HCl,1,cancer-other
+854,105-55-5,CCNC(=S)NCC,"N,N'-Diethylthiourea",1,cancer-other
+855,1150-37-4,COC1=CC2=C(C(=C1)OC)C3=C(CCC3=O)C(=O)O2,"5,7-Dimethoxycyclopentenone[2,3-c]coumarin",0,negative
+856,156-62-7,C(#N)N=[Ca],"Cyanamide, calcium",0,negative
+857,121-88-0,C1=CC(=C(C=C1[N+](=O)[O-])O)N,2-Amino-5-nitrophenol,1,cancer-other
+858,590-21-6,C/C=C/Cl,1-Chloropropene,1,cancer-other
+859,868-85-9,CO[P+](=O)OC,Dimethyl hydrogen phosphite,1,cancer-other
+860,57590-21-3,CC(C)C/C=N/N(C)C=O,3-Methylbutanal methylformylhydrazone,1,cancer-liver
+861,5461-85-8,CC(C)CN(/C(=N/[N+](=O)[O-])/N)N=O,N-Isobutyl-N'-nitro-N-nitrosoguanidine,0,negative
+862,70-25-7,CN(C(=N)N[N+](=O)[O-])N=O,N-Methyl-N'-nitro-N-nitrosoguanidine,1,cancer-other
