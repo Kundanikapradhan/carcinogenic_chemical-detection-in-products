@@ -1,0 +1,6 @@
+numpy==1.26.4
+pytesseract==5.3.4
+pandas==2.2.2
+matplotlib==3.8.4
+spellchecker==3.7.1
+cv2==4.8.1.78
